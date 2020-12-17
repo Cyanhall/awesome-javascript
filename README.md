@@ -245,7 +245,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Ghost](https://github.com/tryghost/Ghost) ` 🔥 35.7k ` ` 🌐 775 ` - 👻 The #1 headless Node.js CMS for professional publishing ` 📝 5 days ago `
 * [Strapi](https://github.com/strapi/strapi) ` 🔥 31.5k ` ` 🌐 10k ` - 🚀 Open source Node.js Headless CMS to easily build customisable APIs ` 📝 6 days ago `
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ` 🔥 10.9k `  - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. ` 📝 7 days ago `
-* [Apostrophe](https://github.com/punkave/apostrophe) ` 🔥 3.4k ` ` 🌐 374 ` - ApostropheCMS is a full-featured, open-source CMS built with Node.js that seeks to empower organizations by combining in-context editing and headless architecture in a full-stack JS environment. ` 📝 6 days ago `
+* [Apostrophe](https://github.com/punkave/apostrophe) ` 🔥 3.4k ` ` 🌐 374 ` - ApostropheCMS is a full-featured, open-source CMS built with Node.js that seeks to empower organizations by combining in-context editing and headless architecture in a full-stack JS environment. ` 📝 7 days ago `
 * [KeystoneJS](https://github.com/keystonejs/keystone) ` 🔥 3k ` ` 🌐 351 ` - The most powerful headless CMS for Node.js — built with GraphQL and React ` 📝 4 days ago `
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) ` 🔥 1.6k `  - Business class content management for Node.js (plugins, server cluster management, data-driven pages) ` 📝 10 months ago `
 * [Factor](https://github.com/fiction-com/factor) ` 🔥 1.1k ` ` 🌐 39 ` - 100% JavaScript framework for marketing sites and application dashboards. ` 📝 a month ago `
@@ -418,7 +418,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 ## Date
 
 * [moment](https://github.com/moment/moment) ` 🔥 45.2k ` ` 🌐 2m ` - Parse, validate, manipulate, and display dates in javascript. ` 📝 2 months ago `
-* [dayjs](https://github.com/iamkun/dayjs) ` 🔥 32.8k ` ` 🌐 306k ` - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API ` 📝 11 days ago `
+* [dayjs](https://github.com/iamkun/dayjs) ` 🔥 32.8k ` ` 🌐 306k ` - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API ` 📝 12 days ago `
 * [date-fns](https://github.com/date-fns/date-fns) ` 🔥 24.4k ` ` 🌐 694k ` - ⏳ Modern JavaScript date utility library ⌛️ ` 📝 2 months ago `
 * [timeago.js](https://github.com/hustcc/timeago.js) ` 🔥 4.3k ` ` 🌐 6.1k ` - 🕗 ⌛ timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement. ` 📝 3 months ago `
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) ` 🔥 3.8k ` ` 🌐 27 ` - The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago'). ` 📝 6 months ago `
@@ -602,7 +602,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Validation
 
-* [validator.js](https://github.com/chriso/validator.js) ` 🔥 16.8k ` ` 🌐 573k ` - String validation ` 📝 7 days ago `
+* [validator.js](https://github.com/chriso/validator.js) ` 🔥 16.8k ` ` 🌐 573k ` - String validation ` 📝 8 days ago `
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) ` 🔥 10k ` ` 🌐 21.3k ` - jQuery Validation Plugin library sources ` 📝 19 days ago `
 * [is.js](https://github.com/arasatasaygin/is.js) ` 🔥 9.1k ` ` 🌐 10.7k ` - Micro check library ` 📝 7 months ago `
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) ` 🔥 9k ` ` 🌐 1.9k ` - Validate your forms, frontend, without writing a single line of javascript ` 📝 a month ago `
@@ -704,7 +704,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 
     * [select2](https://github.com/select2/select2) ` 🔥 24.8k ` ` 🌐 80.4k ` - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. ` 📝 12 days ago`
     * [chosen](https://github.com/harvesthq/chosen) ` 🔥 22.2k ` ` 🌐 208 ` - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly. ` 📝 a year ago`
-    * [selectize.js](https://github.com/selectize/selectize.js) ` 🔥 12.5k ` ` 🌐 4k ` - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc. ` 📝 9 days ago`
+    * [selectize.js](https://github.com/selectize/selectize.js) ` 🔥 12.5k ` ` 🌐 4k ` - Selectize is the hybrid of a textbox and `<select>` box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc. ` 📝 9 days ago`
   
 * #### File Uploader
 
