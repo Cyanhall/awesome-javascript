@@ -146,7 +146,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Frameworks
 
-    * [jest](https://github.com/facebook/jest) ` 🔥 33.4k ` ` 🌐 2.6m ` - Delightful JavaScript Testing. ` 📝 3 days ago`
+    * [jest](https://github.com/facebook/jest) ` 🔥 33.4k ` ` 🌐 2.6m ` - Delightful JavaScript Testing. ` 📝 4 days ago`
     * [mocha](https://github.com/mochajs/mocha) ` 🔥 20.1k ` ` 🌐 1.2m ` - ☕️ simple, flexible, fun javascript test framework for node.js & the browser ` 📝 7 days ago`
     * [ava](https://github.com/avajs/ava) ` 🔥 18.5k ` ` 🌐 58.3k ` - Node.js test runner that lets you develop with confidence 🚀 ` 📝 10 days ago`
     * [jasmine](https://github.com/jasmine/jasmine) ` 🔥 15k ` ` 🌐 6.2k ` - Simple JavaScript testing framework for browsers and node.js ` 📝 22 days ago`
@@ -184,7 +184,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
     * [zombie](https://github.com/assaf/zombie) ` 🔥 5.5k ` ` 🌐 8.3k ` - Insanely fast, full-stack, headless browser testing using node.js ` 📝 8 months ago`
     * [intern](https://github.com/theintern/intern) ` 🔥 4.3k ` ` 🌐 2k ` - A next-generation code testing stack for JavaScript. ` 📝 3 months ago`
     * [slimerjs](https://github.com/laurentj/slimerjs) ` 🔥 3k ` ` 🌐 483 ` - A scriptable browser like PhantomJS, based on Firefox ` 📝 8 months ago`
-    * [taiko](https://github.com/getgauge/taiko) ` 🔥 2.6k ` ` 🌐 356 ` - A node.js library for testing modern web applications ` 📝 5 days ago`
+    * [taiko](https://github.com/getgauge/taiko) ` 🔥 2.6k ` ` 🌐 356 ` - A node.js library for testing modern web applications ` 📝 6 days ago`
     * [totoro](https://github.com/totorojs/totoro) ` 🔥 563 ` ` 🌐 14 ` - A simple and stable cross-browser testing tool. 简单稳定的跨浏览器测试工具。 ` 📝 6 years ago`
     * [yolpo](http://www.yolpo.com)   
   
@@ -205,7 +205,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## MVC Frameworks and Libraries
 
-* [vue](https://github.com/vuejs/vue) ` 🔥 177k ` ` 🌐 123k ` - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ` 📝 22 days ago `
+* [vue](https://github.com/vuejs/vue) ` 🔥 177k ` ` 🌐 123k ` - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ` 📝 23 days ago `
 * [react-native](https://github.com/facebook/react-native) ` 🔥 92.2k ` ` 🌐 552k ` - A framework for building native apps with React. ` 📝 4 days ago `
 * [angular.js](https://github.com/angular/angular.js) ` 🔥 59.6k ` ` 🌐 117k ` - AngularJS - HTML enhanced for web apps! ` 📝 2 months ago `
 * [meteor](https://github.com/meteor/meteor) ` 🔥 42.1k `  - Meteor, the JavaScript App Platform ` 📝 7 days ago `
@@ -423,7 +423,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [timeago.js](https://github.com/hustcc/timeago.js) ` 🔥 4.3k ` ` 🌐 6.1k ` - 🕗 ⌛ timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement. ` 📝 3 months ago `
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) ` 🔥 3.8k ` ` 🌐 27 ` - The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago'). ` 📝 6 months ago `
 * [moment-timezone](https://github.com/moment/moment-timezone) ` 🔥 3.5k ` ` 🌐 414k ` - Timezone support for moment.js ` 📝 a month ago `
-* [ms.js](https://github.com/rauchg/ms.js) ` 🔥 3.2k ` ` 🌐 9.1m ` - Tiny millisecond conversion utility ` 📝 8 days ago `
+* [ms.js](https://github.com/rauchg/ms.js) ` 🔥 3.2k ` ` 🌐 9.1m ` - Tiny millisecond conversion utility ` 📝 9 days ago `
 * [fecha](https://github.com/taylorhakes/fecha) ` 🔥 1.9k ` ` 🌐 116k ` - Lightweight and simple JS date formatting and parsing ` 📝 9 months ago `
 * [date](https://github.com/MatthewMueller/date) ` 🔥 1.4k ` ` 🌐 6k ` - Date() for humans ` 📝 2 years ago `
 * [timezone-js](https://github.com/mde/timezone-js) ` 🔥 831 ` ` 🌐 210 ` - DEPRECATED: Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data. ` 📝 3 years ago `
@@ -710,7 +710,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 
     * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) ` 🔥 30.9k ` ` 🌐 2.5k ` - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. ` 📝 a month ago`
     * [dropzone](https://github.com/enyo/dropzone) ` 🔥 15.4k ` ` 🌐 40.5k ` - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. ` 📝 5 months ago`
-    * [filepond](https://github.com/pqina/filepond) ` 🔥 10.2k ` ` 🌐 2.8k ` - 🌊 A flexible and fun JavaScript file upload library ` 📝 3 days ago`
+    * [filepond](https://github.com/pqina/filepond) ` 🔥 10.2k ` ` 🌐 2.8k ` - 🌊 A flexible and fun JavaScript file upload library ` 📝 4 days ago`
     * [fine-uploader](https://github.com/FineUploader/fine-uploader) ` 🔥 8.1k ` ` 🌐 1.2k ` - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features. ` 📝 2 years ago`
     * [plupload](https://github.com/moxiecode/plupload) ` 🔥 5.4k ` ` 🌐 809 ` - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. ` 📝 3 years ago`
     * [FileAPI](https://github.com/mailru/FileAPI) ` 🔥 3.6k ` ` 🌐 317 ` - FileAPI — a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF. ` 📝 3 months ago`
@@ -828,7 +828,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Animations
 
-* [animate.css](https://github.com/daneden/animate.css) ` 🔥 68.6k ` ` 🌐 71.5k ` - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. ` 📝 8 days ago `
+* [animate.css](https://github.com/daneden/animate.css) ` 🔥 68.6k ` ` 🌐 71.5k ` - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. ` 📝 9 days ago `
 * [impress.js](https://github.com/impress/impress.js) ` 🔥 36k ` ` 🌐 104 ` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ` 📝 2 months ago `
 * [particles.js](https://github.com/VincentGarreau/particles.js) ` 🔥 23.1k ` ` 🌐 8.1k ` - A lightweight JavaScript library for creating particles ` 📝 4 years ago `
 * [velocity](https://github.com/julianshapiro/velocity) ` 🔥 16.9k ` ` 🌐 21.5k ` - Accelerated JavaScript animation. ` 📝 4 months ago `
