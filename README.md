@@ -102,7 +102,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Component Managment [🔝](#readme)
 
-* [Bit](https://github.com/teambit/bit) ` 🔥 13k `  - Build, distribute, and collaborate on components. ` 📝 4 days ago `
+* [Bit](https://github.com/teambit/bit)   
   
 ## Loaders [🔝](#readme)
 
@@ -142,7 +142,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Frameworks [🔝](#readme)
 
-    * [jest](https://github.com/facebook/jest) ` 🔥 34.3k ` ` 🌐 2.8m ` - Delightful JavaScript Testing. ` 📝 8 days ago`
+    * [jest](https://github.com/facebook/jest) ` 🔥 34.3k ` ` 🌐 2.8m ` - Delightful JavaScript Testing. ` 📝 9 days ago`
     * [mocha](https://github.com/mochajs/mocha)   
     * [jasmine](https://github.com/jasmine/jasmine)   
     * [qunit](https://github.com/jquery/qunit)   
@@ -156,7 +156,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Assertion [🔝](#readme)
 
-    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 7 days ago`
+    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 8 days ago`
     * [chai](https://github.com/chaijs/chai)   
     * [Enzyme](http://airbnb.io/enzyme/index.html)   
     * [Sinon.JS](https://github.com/sinonjs/sinon)   
@@ -201,15 +201,15 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## MVC Frameworks and Libraries [🔝](#readme)
 
-* [svelte](https://github.com/sveltejs/svelte) ` 🔥 44.7k ` ` 🌐 38.7k ` - Cybernetically enhanced web apps ` 📝 9 days ago `
-* [meteor](https://github.com/meteor/meteor) ` 🔥 42.3k `  - Meteor, the JavaScript App Platform ` 📝 7 days ago `
 * [Keo](https://github.com/Wildhoney/Keo) ` 🔥 223 ` ` 🌐 7 ` - Plain functions for a more functional Deku approach to creating stateless React components, with functional goodies such as compose, memoize, etc... for free. ` 📝 a year ago `
 * [angular.js](https://github.com/angular/angular.js)   
 * [aurelia](http://aurelia.io)   
 * [backbone](https://github.com/jashkenas/backbone)   
 * [ember.js](https://github.com/emberjs/ember.js)   
+* [meteor](https://github.com/meteor/meteor)   
 * [ractive](https://github.com/ractivejs/ractive)   
 * [vue](https://github.com/vuejs/vue)   
+* [svelte](https://github.com/sveltejs/svelte)   
 * [knockout](https://github.com/knockout/knockout)   
 * [spine](https://github.com/spine/spine)   
 * [espresso.js](https://github.com/techlayer/espresso.js)   
@@ -279,14 +279,14 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Data Visualization [🔝](#readme)
 
-* [d3](https://github.com/d3/d3) ` 🔥 95.8k ` ` 🌐 197k ` - Bring data to life with SVG, Canvas and HTML. ` 📝 a month ago `
-* [three.js](https://github.com/mrdoob/three.js) ` 🔥 67.8k ` ` 🌐 46.7k ` - JavaScript 3D library. ` 📝 3 days ago `
-* [Chart.js](https://github.com/chartjs/Chart.js) ` 🔥 52.2k ` ` 🌐 336k ` - Simple HTML5 Charts using the <canvas> tag ` 📝 3 days ago `
-* [fabric.js](https://github.com/kangax/fabric.js) ` 🔥 18.1k ` ` 🌐 3.9k ` - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser ` 📝 19 days ago `
-* [recharts](https://github.com/recharts/recharts) ` 🔥 15.9k ` ` 🌐 41.8k ` - Redefined chart library built with React and D3 ` 📝 3 days ago `
-* [paper.js](https://github.com/paperjs/paper.js) ` 🔥 12.2k ` ` 🌐 2.7k ` - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey ` 📝 8 months ago `
-* [raphael](https://github.com/DmitryBaranovskiy/raphael) ` 🔥 10.8k ` ` 🌐 29.5k ` - JavaScript Vector Library ` 📝 8 months ago `
-* [peity](https://github.com/benpickles/peity) ` 🔥 4.2k ` ` 🌐 2.5k ` - Progressive <svg> pie, donut, bar and line charts ` 📝 a year ago `
+* [recharts](https://github.com/recharts/recharts) ` 🔥 15.9k ` ` 🌐 41.8k ` - Redefined chart library built with React and D3 ` 📝 4 days ago `
+* [d3](https://github.com/d3/d3)   
+* [three.js](https://github.com/mrdoob/three.js)   
+* [Chart.js](https://github.com/chartjs/Chart.js)   
+* [paper.js](https://github.com/paperjs/paper.js)   
+* [fabric.js](https://github.com/kangax/fabric.js)   
+* [peity](https://github.com/benpickles/peity)   
+* [raphael](https://github.com/DmitryBaranovskiy/raphael)   
 * [echarts](https://github.com/apache/echarts)   
 * [vis](https://github.com/almende/vis)   
 * [two.js](https://github.com/jonobr1/two.js)   
@@ -333,7 +333,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Editors [🔝](#readme)
 
-* [Draft.js](https://github.com/facebook/draft-js) ` 🔥 19.8k ` ` 🌐 82.1k ` - A React framework for building text editors. ` 📝 8 days ago `
+* [Draft.js](https://github.com/facebook/draft-js) ` 🔥 19.8k ` ` 🌐 82.1k ` - A React framework for building text editors. ` 📝 9 days ago `
 * [ace](https://github.com/ajaxorg/ace)   
 * [CodeMirror](https://github.com/codemirror/CodeMirror)   
 * [esprima](https://github.com/ariya/esprima)   
@@ -398,7 +398,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Reactive Programming [🔝](#readme)
 
-* [MobX](https://github.com/mobxjs/mobx) ` 🔥 23.3k ` ` 🌐 76.4k ` - Simple, scalable state management. ` 📝 5 days ago `
+* [MobX](https://github.com/mobxjs/mobx) ` 🔥 23.3k ` ` 🌐 76.4k ` - Simple, scalable state management. ` 📝 6 days ago `
 * [RxJS](https://github.com/ReactiveX/rxjs)   
 * [Bacon](https://github.com/baconjs/bacon.js)   
 * [Kefir](https://github.com/pozadi/kefir)   
@@ -646,7 +646,6 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Sliders [🔝](#readme)
 
-* [impress.js](https://github.com/impress/impress.js) ` 🔥 36.2k ` ` 🌐 107 ` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ` 📝 2 months ago `
 * [Swiper](https://github.com/nolimits4web/Swiper)   
 * [slick](https://github.com/kenwheeler/slick)   
 * [slidesJs](http://www.slidesjs.com)   
@@ -656,6 +655,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [vegas](https://github.com/jaysalvat/vegas)   
 * [Sequence](https://github.com/IanLunn/Sequence)   
 * [reveal.js](https://github.com/hakimel/reveal.js)   
+* [impress.js](https://github.com/impress/impress.js)   
 * [bespoke.js](https://github.com/bespokejs/bespoke)   
 * [Strut](https://github.com/tantaman/Strut)   
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)   
@@ -818,26 +818,26 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Animations [🔝](#readme)
 
-* [animate.css](https://github.com/daneden/animate.css) ` 🔥 69.2k ` ` 🌐 77.3k ` - A cross-browser library of CSS animations. As easy to use as an easy thing. ` 📝 5 days ago `
-* [impress.js](https://github.com/impress/impress.js) ` 🔥 36.2k ` ` 🌐 107 ` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ` 📝 2 months ago `
-* [particles.js](https://github.com/VincentGarreau/particles.js) ` 🔥 23.6k ` ` 🌐 8.6k ` - A lightweight JavaScript library for creating particles ` 📝 4 years ago `
-* [velocity](https://github.com/julianshapiro/velocity) ` 🔥 16.9k ` ` 🌐 22.2k ` - Accelerated JavaScript animation. ` 📝 7 months ago `
-* [GreenSock-JS](https://github.com/greensock/GreenSock-JS) ` 🔥 12.1k ` ` 🌐 43.5k ` - GreenSock's GSAP JavaScript animation library (including Draggable). ` 📝 a month ago `
-* [Effeckt.css](https://github.com/h5bp/Effeckt.css) ` 🔥 11.1k `  - This repo is archived. Thanks! ` 📝 2 years ago `
-* [jquery.transit](https://github.com/rstacruz/jquery.transit) ` 🔥 7.4k ` ` 🌐 480 ` - Super-smooth CSS3 transformations and transitions for jQuery ` 📝 6 years ago `
-* [Dynamic.js](https://github.com/michaelvillar/dynamics.js) ` 🔥 7.3k ` ` 🌐 766 ` - Javascript library to create physics-based animations ` 📝 4 years ago `
-* [bounce.js](https://github.com/tictail/bounce.js) ` 🔥 6.1k `  - Create beautiful CSS3 powered animations in no time. ` 📝 6 years ago `
-* [move.js](https://github.com/visionmedia/move.js) ` 🔥 4.6k ` ` 🌐 137 ` - CSS3 backed JavaScript animation framework ` 📝 5 months ago `
-* [smoothState.js](https://github.com/miguel-perez/smoothState.js) ` 🔥 4.4k ` ` 🌐 155 ` - Unobtrusive page transitions with jQuery. ` 📝 2 months ago `
-* [textillate](https://github.com/jschr/textillate) ` 🔥 3.6k ` ` 🌐 98 ` - A jquery plugin for CSS3 text animations. ` 📝 3 years ago `
-* [animatable](https://github.com/LeaVerou/animatable) ` 🔥 2.5k `  - One property, two values, endless possiblities ` 📝 6 months ago `
-* [tsParticles](https://github.com/matteobruni/tsparticles) ` 🔥 1.6k ` ` 🌐 1.8k ` - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno. ` 📝 6 days ago `
-* [particles-bg](https://github.com/lindelof/particles-bg) ` 🔥 293 ` ` 🌐 1.5k ` - React particles animation background component ` 📝 7 months ago `
-* [shuffle-images](https://github.com/peachananr/shuffle-images) ` 🔥 206 `  - The Simplest Way to shuffle through images in a Creative Way ` 📝 10 months ago `
-* [TransitionEnd](https://github.com/EvandroLG/transitionEnd) ` 🔥 94 `  - TransitionEnd is an agnostic and cross-browser library to work with transitionend event. ` 📝 5 years ago `
-* [the-cube](https://github.com/pstadler/the-cube) ` 🔥 8 `  - The Cube is an experiment with CSS3 transitions. 
+* [velocity](https://github.com/julianshapiro/velocity)   
+* [jquery.transit](https://github.com/rstacruz/jquery.transit)   
+* [impress.js](https://github.com/impress/impress.js)   
+* [bounce.js](https://github.com/tictail/bounce.js)   
+* [GreenSock-JS](https://github.com/greensock/GreenSock-JS)   
+* [TransitionEnd](https://github.com/EvandroLG/transitionEnd)   
+* [Dynamic.js](https://github.com/michaelvillar/dynamics.js)   
+* [the-cube](https://github.com/pstadler/the-cube)   
+* [Effeckt.css](https://github.com/h5bp/Effeckt.css)   
+* [animate.css](https://github.com/daneden/animate.css)   
+* [textillate](https://github.com/jschr/textillate)   
+* [move.js](https://github.com/visionmedia/move.js)   
+* [animatable](https://github.com/LeaVerou/animatable)   
+* [shuffle-images](https://github.com/peachananr/shuffle-images)   
+* [smoothState.js](https://github.com/miguel-perez/smoothState.js)   
 * [Anime.js](http://animejs.com)   
 * [Mo.js](http://mojs.io)   
+* [particles.js](https://github.com/VincentGarreau/particles.js)   
+* [tsParticles](https://github.com/matteobruni/tsparticles)   
+* [particles-bg](https://github.com/lindelof/particles-bg)   
   
 ## Image Processing [🔝](#readme)
 
@@ -856,7 +856,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Generators [🔝](#readme)
 
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49.1k ` ` 🌐 305k ` - Build blazing fast, modern apps and websites with React ` 📝 3 days ago `
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49.1k ` ` 🌐 305k ` - Build blazing fast, modern apps and websites with React ` 📝 4 days ago `
 * [Gridsome](https://github.com/gridsome/gridsome)   
 * [Docusaurus](https://github.com/facebook/docusaurus)   
   
