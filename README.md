@@ -142,10 +142,10 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Frameworks [🔝](#readme)
 
-    * [jest](https://github.com/facebook/jest) ` 🔥 34.3k ` ` 🌐 2.8m ` - Delightful JavaScript Testing. ` 📝 9 days ago`
     * [mocha](https://github.com/mochajs/mocha)   
     * [jasmine](https://github.com/jasmine/jasmine)   
     * [qunit](https://github.com/jquery/qunit)   
+    * [jest](https://github.com/facebook/jest)   
     * [prova](https://github.com/azer/prova)   
     * [DalekJS](https://github.com/dalekjs/dalek)   
     * [Protractor](https://github.com/angular/protractor)   
@@ -156,7 +156,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Assertion [🔝](#readme)
 
-    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 8 days ago`
+    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 9 days ago`
     * [chai](https://github.com/chaijs/chai)   
     * [Enzyme](http://airbnb.io/enzyme/index.html)   
     * [Sinon.JS](https://github.com/sinonjs/sinon)   
@@ -201,7 +201,6 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## MVC Frameworks and Libraries [🔝](#readme)
 
-* [Keo](https://github.com/Wildhoney/Keo) ` 🔥 223 ` ` 🌐 7 ` - Plain functions for a more functional Deku approach to creating stateless React components, with functional goodies such as compose, memoize, etc... for free. ` 📝 a year ago `
 * [angular.js](https://github.com/angular/angular.js)   
 * [aurelia](http://aurelia.io)   
 * [backbone](https://github.com/jashkenas/backbone)   
@@ -231,6 +230,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [jsblocks](https://github.com/astoilkov/jsblocks)   
 * [LiquidLava](http://www.lava-framework.com/)   
 * [feathers](https://github.com/feathersjs/feathers)   
+* [Keo](https://github.com/Wildhoney/Keo)   
 * [atvjs](https://github.com/emadalam/atvjs)   
 * [makefun](https://www.npmjs.com/package/makefun)   
 * [Alpine.js](https://github.com/alpinejs/alpine)   
@@ -279,7 +279,6 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Data Visualization [🔝](#readme)
 
-* [recharts](https://github.com/recharts/recharts) ` 🔥 15.9k ` ` 🌐 41.8k ` - Redefined chart library built with React and D3 ` 📝 4 days ago `
 * [d3](https://github.com/d3/d3)   
 * [three.js](https://github.com/mrdoob/three.js)   
 * [Chart.js](https://github.com/chartjs/Chart.js)   
@@ -313,6 +312,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [epoch](https://github.com/epochjs/epoch)   
 * [c3](https://github.com/c3js/c3)   
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js)   
+* [recharts](https://github.com/recharts/recharts)   
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS)   
 * [mxGraph](https://github.com/jgraph/mxgraph)   
 * [Frappe Charts](https://github.com/frappe/charts)   
@@ -333,7 +333,6 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Editors [🔝](#readme)
 
-* [Draft.js](https://github.com/facebook/draft-js) ` 🔥 19.8k ` ` 🌐 82.1k ` - A React framework for building text editors. ` 📝 9 days ago `
 * [ace](https://github.com/ajaxorg/ace)   
 * [CodeMirror](https://github.com/codemirror/CodeMirror)   
 * [esprima](https://github.com/ariya/esprima)   
@@ -351,6 +350,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [TinyMCE](https://github.com/tinymce/tinymce)   
 * [trix](https://github.com/basecamp/trix)   
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg)   
+* [Draft.js](https://github.com/facebook/draft-js)   
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5)   
 * [wysihtml5](https://github.com/xing/wysihtml5)   
 * [raptor-editor](https://github.com/PANmedia/raptor-editor)   
@@ -398,12 +398,12 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Reactive Programming [🔝](#readme)
 
-* [MobX](https://github.com/mobxjs/mobx) ` 🔥 23.3k ` ` 🌐 76.4k ` - Simple, scalable state management. ` 📝 6 days ago `
 * [RxJS](https://github.com/ReactiveX/rxjs)   
 * [Bacon](https://github.com/baconjs/bacon.js)   
 * [Kefir](https://github.com/pozadi/kefir)   
 * [Highland](http://highlandjs.org/)   
 * [Most.js](https://github.com/cujojs/most)   
+* [MobX](https://github.com/mobxjs/mobx)   
 * [Cycle.js](https://cycle.js.org)   
 * [concent](https://github.com/concentjs/concent)   
   
@@ -856,7 +856,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Generators [🔝](#readme)
 
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49.1k ` ` 🌐 305k ` - Build blazing fast, modern apps and websites with React ` 📝 4 days ago `
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby)   
 * [Gridsome](https://github.com/gridsome/gridsome)   
 * [Docusaurus](https://github.com/facebook/docusaurus)   
   
