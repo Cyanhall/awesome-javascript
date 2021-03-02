@@ -156,7 +156,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Assertion [🔝](#readme)
 
-    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 9 days ago`
+    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 10 days ago`
     * [chai](https://github.com/chaijs/chai)   
     * [Enzyme](http://airbnb.io/enzyme/index.html)   
     * [Sinon.JS](https://github.com/sinonjs/sinon)   
