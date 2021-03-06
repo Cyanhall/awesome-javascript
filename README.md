@@ -156,9 +156,9 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Assertion [🔝](#readme)
 
-    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14k ` ` 🌐 1.7m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 11 days ago`
     * [chai](https://github.com/chaijs/chai)   
     * [Enzyme](http://airbnb.io/enzyme/index.html)   
+    * [react testing library](https://github.com/kentcdodds/react-testing-library)   
     * [Sinon.JS](https://github.com/sinonjs/sinon)   
     * [expect.js](https://github.com/Automattic/expect.js)   
     * [proxyquire](https://github.com/thlorenz/proxyquire)   
@@ -202,6 +202,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 ## MVC Frameworks and Libraries [🔝](#readme)
 
 * [angular.js](https://github.com/angular/angular.js)   
+* [angular](https://github.com/angular/angular)   
 * [aurelia](http://aurelia.io)   
 * [backbone](https://github.com/jashkenas/backbone)   
 * [ember.js](https://github.com/emberjs/ember.js)   
@@ -236,6 +237,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Alpine.js](https://github.com/alpinejs/alpine)   
 * [inferno](https://github.com/infernojs/inferno)   
 * [FoalTS](https://foalts.org)   
+* [Lucia](https://github.com/aidenybai/lucia)   
   
 ## Node-Powered CMS Frameworks [🔝](#readme)
 
@@ -428,6 +430,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [date-fns](https://github.com/date-fns/date-fns)   
 * [map-countdown](https://github.com/dawidjaniga/map-countdown)   
 * [dayjs](https://github.com/iamkun/dayjs)   
+* [luxon](https://github.com/moment/luxon)   
   
 ## String [🔝](#readme)
 
@@ -889,6 +892,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [iooxa](https://github.com/iooxa/article)   
 * [Idyll](https://github.com/idyll-lang/idyll)   
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)   
+* [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)   
   
 ## Podcasts [🔝](#readme)
 
