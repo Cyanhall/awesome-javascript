@@ -102,7 +102,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Component Managment [🔝](#readme)
 
-* [Bit](https://github.com/teambit/bit) ` 🔥 13.3k `  - Build modular projects with components in harmony. ` 📝 3 days ago `
+* [Bit](https://github.com/teambit/bit) ` 🔥 13.3k `  - Build modular projects with components in harmony. ` 📝 4 days ago `
   
 ## Loaders [🔝](#readme)
 
@@ -120,9 +120,9 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Bundlers [🔝](#readme)
 
-* [webpack](https://github.com/webpack/webpack) ` 🔥 58k ` ` 🌐 6.6m ` - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through 'loaders', modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. ` 📝 2 days ago `
-* [Parcel](https://github.com/parcel-bundler/parcel) ` 🔥 38k ` ` 🌐 127k ` - Blazing fast, zero configuration web application bundler ` 📝 6 days ago `
-* [Rollup](https://github.com/rollup/rollup) ` 🔥 20.1k ` ` 🌐 673k ` - Next-generation ES module bundler ` 📝 11 days ago `
+* [webpack](https://github.com/webpack/webpack) ` 🔥 58k ` ` 🌐 6.6m ` - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through 'loaders', modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. ` 📝 3 days ago `
+* [Parcel](https://github.com/parcel-bundler/parcel) ` 🔥 38k ` ` 🌐 127k ` - Blazing fast, zero configuration web application bundler ` 📝 7 days ago `
+* [Rollup](https://github.com/rollup/rollup) ` 🔥 20.1k ` ` 🌐 673k ` - Next-generation ES module bundler ` 📝 12 days ago `
 * [browserify](https://github.com/substack/node-browserify) ` 🔥 13.7k ` ` 🌐 357k ` - browser-side require() the node.js way ` 📝 a month ago `
 * [Brunch](https://github.com/brunch/brunch) ` 🔥 6.8k ` ` 🌐 21.4k ` - Web applications made easy. Since 2011. ` 📝 2 months ago `
 * [Microbundle](https://github.com/developit/microbundle) ` 🔥 6k ` ` 🌐 5.4k ` - Zero-configuration bundler for tiny modules. ` 📝 a month ago `
@@ -142,22 +142,22 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Frameworks [🔝](#readme)
 
-    * [jest](https://github.com/facebook/jest) ` 🔥 34.9k ` ` 🌐 3m ` - Delightful JavaScript Testing. ` 📝 2 days ago`
-    * [mocha](https://github.com/mochajs/mocha) ` 🔥 20.5k ` ` 🌐 1.3m ` - simple, flexible, fun javascript test framework for node.js & the browser ` 📝 22 days ago`
-    * [ava](https://github.com/avajs/ava) ` 🔥 18.9k ` ` 🌐 63k ` - Node.js test runner that lets you develop with confidence ` 📝 19 days ago`
-    * [jasmine](https://github.com/jasmine/jasmine) ` 🔥 15.1k ` ` 🌐 6.4k ` - Simple JavaScript testing framework for browsers and node.js ` 📝 2 days ago`
-    * [TestCafe](https://github.com/DevExpress/testcafe) ` 🔥 8.9k ` ` 🌐 8.2k ` - A Node.js tool to automate end-to-end web testing. ` 📝 3 days ago`
+    * [jest](https://github.com/facebook/jest) ` 🔥 34.9k ` ` 🌐 3m ` - Delightful JavaScript Testing. ` 📝 3 days ago`
+    * [mocha](https://github.com/mochajs/mocha) ` 🔥 20.5k ` ` 🌐 1.3m ` - simple, flexible, fun javascript test framework for node.js & the browser ` 📝 23 days ago`
+    * [ava](https://github.com/avajs/ava) ` 🔥 18.9k ` ` 🌐 63k ` - Node.js test runner that lets you develop with confidence ` 📝 20 days ago`
+    * [jasmine](https://github.com/jasmine/jasmine) ` 🔥 15.1k ` ` 🌐 6.4k ` - Simple JavaScript testing framework for browsers and node.js ` 📝 3 days ago`
+    * [TestCafe](https://github.com/DevExpress/testcafe) ` 🔥 8.9k ` ` 🌐 8.2k ` - A Node.js tool to automate end-to-end web testing. ` 📝 4 days ago`
     * [Protractor](https://github.com/angular/protractor) ` 🔥 8.7k ` ` 🌐 1.6m ` - E2E test framework for Angular apps ` 📝 a year ago`
     * [tape](https://github.com/substack/tape) ` 🔥 5.5k ` ` 🌐 181k ` - tap-producing test harness for node and browsers ` 📝 2 months ago`
-    * [qunit](https://github.com/jquery/qunit) ` 🔥 3.9k ` ` 🌐 40.1k ` - An easy-to-use JavaScript unit testing framework. ` 📝 10 days ago`
+    * [qunit](https://github.com/jquery/qunit) ` 🔥 3.9k ` ` 🌐 40.1k ` - An easy-to-use JavaScript unit testing framework. ` 📝 11 days ago`
     * [DalekJS](https://github.com/dalekjs/dalek) ` 🔥 707 ` ` 🌐 300 ` - [unmaintained] DalekJS Base framework ` 📝 4 years ago`
     * [prova](https://github.com/azer/prova) ` 🔥 333 ` ` 🌐 387 ` - Test runner based on Tape and Browserify ` 📝 4 years ago`
     * [Cypress](https://www.cypress.io/)   
   
 * #### Assertion [🔝](#readme)
 
-    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14.3k ` ` 🌐 2m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 3 days ago`
-    * [Sinon.JS](https://github.com/sinonjs/sinon) ` 🔥 8.5k ` ` 🌐 395k ` - Test spies, stubs and mocks for JavaScript. ` 📝 3 days ago`
+    * [react testing library](https://github.com/kentcdodds/react-testing-library) ` 🔥 14.3k ` ` 🌐 2m ` - Simple and complete React DOM testing utilities that encourage good testing practices. ` 📝 4 days ago`
+    * [Sinon.JS](https://github.com/sinonjs/sinon) ` 🔥 8.5k ` ` 🌐 395k ` - Test spies, stubs and mocks for JavaScript. ` 📝 4 days ago`
     * [chai](https://github.com/chaijs/chai) ` 🔥 7.2k ` ` 🌐 950k ` - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. ` 📝 2 months ago`
     * [proxyquire](https://github.com/thlorenz/proxyquire) ` 🔥 2.6k ` ` 🌐 36.4k ` - Proxies nodejs require in order to allow overriding dependencies during testing. ` 📝 a month ago`
     * [expect.js](https://github.com/Automattic/expect.js) ` 🔥 2.1k ` ` 🌐 34.5k ` - Minimalistic BDD-style assertions for Node.JS and the browser. ` 📝 6 years ago`
@@ -171,27 +171,27 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Runner [🔝](#readme)
 
-    * [puppeteer](https://github.com/GoogleChrome/puppeteer) ` 🔥 70.2k ` ` 🌐 134k ` - Headless Chrome Node.js API ` 📝 4 days ago`
+    * [puppeteer](https://github.com/GoogleChrome/puppeteer) ` 🔥 70.2k ` ` 🌐 134k ` - Headless Chrome Node.js API ` 📝 5 days ago`
     * [phantomjs](https://github.com/ariya/phantomjs) ` 🔥 28.3k `  - Scriptable Headless Browser ` 📝 9 months ago`
-    * [karma](https://github.com/karma-runner/karma) ` 🔥 11.5k ` ` 🌐 2m ` - Spectacular Test Runner for JavaScript ` 📝 13 days ago`
-    * [nightwatch](https://github.com/nightwatchjs/nightwatch) ` 🔥 10.7k ` ` 🌐 123k ` - End-to-end testing framework written in Node.js and using the Webdriver API ` 📝 2 days ago`
+    * [karma](https://github.com/karma-runner/karma) ` 🔥 11.5k ` ` 🌐 2m ` - Spectacular Test Runner for JavaScript ` 📝 14 days ago`
+    * [nightwatch](https://github.com/nightwatchjs/nightwatch) ` 🔥 10.7k ` ` 🌐 123k ` - End-to-end testing framework written in Node.js and using the Webdriver API ` 📝 3 days ago`
     * [casperjs](https://github.com/casperjs/casperjs) ` 🔥 7.3k ` ` 🌐 5.3k ` - CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS ` 📝 3 years ago`
-    * [webdriverio](https://github.com/webdriverio/webdriverio) ` 🔥 6.6k ` ` 🌐 31.7k ` - Next-gen browser and mobile automation test framework for Node.js ` 📝 3 days ago`
+    * [webdriverio](https://github.com/webdriverio/webdriverio) ` 🔥 6.6k ` ` 🌐 31.7k ` - Next-gen browser and mobile automation test framework for Node.js ` 📝 4 days ago`
     * [zombie](https://github.com/assaf/zombie) ` 🔥 5.5k ` ` 🌐 8.8k ` - Insanely fast, full-stack, headless browser testing using node.js ` 📝 a year ago`
     * [intern](https://github.com/theintern/intern) ` 🔥 4.3k ` ` 🌐 2.1k ` - A next-generation code testing stack for JavaScript. ` 📝 5 months ago`
     * [slimerjs](https://github.com/laurentj/slimerjs) ` 🔥 3k ` ` 🌐 493 ` - A scriptable browser like PhantomJS, based on Firefox ` 📝 a year ago`
-    * [taiko](https://github.com/getgauge/taiko) ` 🔥 2.7k ` ` 🌐 435 ` - A node.js library for testing modern web applications ` 📝 3 days ago`
+    * [taiko](https://github.com/getgauge/taiko) ` 🔥 2.7k ` ` 🌐 435 ` - A node.js library for testing modern web applications ` 📝 4 days ago`
     * [totoro](https://github.com/totorojs/totoro) ` 🔥 566 `  - A simple and stable cross-browser testing tool. 简单稳定的跨浏览器测试工具。 ` 📝 6 years ago`
     * [yolpo](http://www.yolpo.com)   
   
 ## QA Tools [🔝](#readme)
 
-* [prettier](https://github.com/prettier/prettier) ` 🔥 39.5k ` ` 🌐 2.8m ` - Prettier is an opinionated code formatter. ` 📝 3 days ago `
-* [JavaScript Standard Style](https://github.com/feross/standard) ` 🔥 25.4k ` ` 🌐 134k ` - JavaScript Style Guide, with linter & automatic code fixer ` 📝 12 days ago `
-* [husky](https://github.com/typicode/husky) ` 🔥 22.6k ` ` 🌐 451k ` - Modern native Git hooks made easy  woof! ` 📝 23 days ago `
-* [ESLint](https://github.com/eslint/eslint) ` 🔥 18.4k ` ` 🌐 4.8m ` - Find and fix problems in your JavaScript code. ` 📝 2 days ago `
+* [prettier](https://github.com/prettier/prettier) ` 🔥 39.5k ` ` 🌐 2.8m ` - Prettier is an opinionated code formatter. ` 📝 4 days ago `
+* [JavaScript Standard Style](https://github.com/feross/standard) ` 🔥 25.4k ` ` 🌐 134k ` - JavaScript Style Guide, with linter & automatic code fixer ` 📝 13 days ago `
+* [husky](https://github.com/typicode/husky) ` 🔥 22.6k ` ` 🌐 451k ` - Modern native Git hooks made easy  woof! ` 📝 24 days ago `
+* [ESLint](https://github.com/eslint/eslint) ` 🔥 18.4k ` ` 🌐 4.8m ` - Find and fix problems in your JavaScript code. ` 📝 3 days ago `
 * [JSHint](https://github.com/jshint/jshint/) ` 🔥 8.5k ` ` 🌐 258k ` - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code ` 📝 2 months ago `
-* [JS-Beautifier](https://github.com/beautify-web/js-beautify) ` 🔥 7.2k ` ` 🌐 329k ` - Beautifier for javascript ` 📝 9 days ago `
+* [JS-Beautifier](https://github.com/beautify-web/js-beautify) ` 🔥 7.2k ` ` 🌐 329k ` - Beautifier for javascript ` 📝 10 days ago `
 * [jscs](https://github.com/jscs-dev/node-jscs) ` 🔥 5k ` ` 🌐 56.6k ` - JavaScript Code Style checker (unmaintained) ` 📝 4 years ago `
 * [JSLint](https://github.com/douglascrockford/JSLint) ` 🔥 3.4k `  - The JavaScript Code Quality Tool ` 📝 6 months ago `
 * [jsinspect](https://github.com/danielstjules/jsinspect) ` 🔥 3.3k ` ` 🌐 666 ` - Detect copy-pasted and structurally similar code ` 📝 4 years ago `
@@ -201,25 +201,25 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## MVC Frameworks and Libraries [🔝](#readme)
 
-* [vue](https://github.com/vuejs/vue) ` 🔥 182k ` ` 🌐 143k ` - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ` 📝 2 days ago `
-* [react-native](https://github.com/facebook/react-native) ` 🔥 95k ` ` 🌐 643k ` - A framework for building native apps with React. ` 📝 a day ago `
-* [angular](https://github.com/angular/angular) ` 🔥 72.7k ` ` 🌐 1.8m ` - One framework. Mobile & desktop. ` 📝 2 days ago `
-* [angular.js](https://github.com/angular/angular.js) ` 🔥 59.6k ` ` 🌐 120k ` - AngularJS - HTML enhanced for web apps! ` 📝 4 days ago `
-* [svelte](https://github.com/sveltejs/svelte) ` 🔥 46.4k ` ` 🌐 44.5k ` - Cybernetically enhanced web apps ` 📝 3 days ago `
-* [meteor](https://github.com/meteor/meteor) ` 🔥 42.4k `  - Meteor, the JavaScript App Platform ` 📝 2 days ago `
-* [preact](https://github.com/developit/preact) ` 🔥 28.9k ` ` 🌐 38.5k ` - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. ` 📝 6 days ago `
+* [vue](https://github.com/vuejs/vue) ` 🔥 182k ` ` 🌐 143k ` - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. ` 📝 3 days ago `
+* [react-native](https://github.com/facebook/react-native) ` 🔥 95k ` ` 🌐 643k ` - A framework for building native apps with React. ` 📝 2 days ago `
+* [angular](https://github.com/angular/angular) ` 🔥 72.7k ` ` 🌐 1.8m ` - One framework. Mobile & desktop. ` 📝 3 days ago `
+* [angular.js](https://github.com/angular/angular.js) ` 🔥 59.6k ` ` 🌐 120k ` - AngularJS - HTML enhanced for web apps! ` 📝 5 days ago `
+* [svelte](https://github.com/sveltejs/svelte) ` 🔥 46.4k ` ` 🌐 44.5k ` - Cybernetically enhanced web apps ` 📝 4 days ago `
+* [meteor](https://github.com/meteor/meteor) ` 🔥 42.4k `  - Meteor, the JavaScript App Platform ` 📝 3 days ago `
+* [preact](https://github.com/developit/preact) ` 🔥 28.9k ` ` 🌐 38.5k ` - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. ` 📝 7 days ago `
 * [backbone](https://github.com/jashkenas/backbone) ` 🔥 27.8k ` ` 🌐 46.1k ` - Give your JS App some Backbone with Models, Views, Collections, and Events ` 📝 a year ago `
-* [ember.js](https://github.com/emberjs/ember.js) ` 🔥 21.8k ` ` 🌐 25.4k ` - Ember.js - A JavaScript framework for creating ambitious web applications ` 📝 4 days ago `
-* [nativescript](https://github.com/NativeScript/NativeScript) ` 🔥 20k ` ` 🌐 3.2k ` - NativeScript empowers you to access native api's from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible. ` 📝 4 days ago `
-* [hyperapp](https://github.com/hyperapp/hyperapp) ` 🔥 18.5k ` ` 🌐 2.3k ` - The tiny framework for building hypertext applications. ` 📝 4 days ago `
-* [Alpine.js](https://github.com/alpinejs/alpine) ` 🔥 15.6k ` ` 🌐 13.8k ` - A rugged, minimal framework for composing JavaScript behavior in your markup. ` 📝 5 days ago `
-* [inferno](https://github.com/infernojs/inferno) ` 🔥 14.8k ` ` 🌐 3k ` - An extremely fast, React-like JavaScript library for building modern user interfaces ` 📝 3 days ago `
-* [riot](https://github.com/riot/riot) ` 🔥 14.5k ` ` 🌐 3.8k ` - Simple and elegant component-based UI library ` 📝 20 days ago `
-* [feathers](https://github.com/feathersjs/feathers) ` 🔥 13.3k ` ` 🌐 3.4k ` - A framework for real-time applications and REST APIs with JavaScript and TypeScript ` 📝 5 days ago `
-* [mithril.js](https://github.com/lhorie/mithril.js) ` 🔥 12.7k ` ` 🌐 6.2k ` - A JavaScript Framework for Building Brilliant Applications ` 📝 7 days ago `
+* [ember.js](https://github.com/emberjs/ember.js) ` 🔥 21.8k ` ` 🌐 25.4k ` - Ember.js - A JavaScript framework for creating ambitious web applications ` 📝 5 days ago `
+* [nativescript](https://github.com/NativeScript/NativeScript) ` 🔥 20k ` ` 🌐 3.2k ` - NativeScript empowers you to access native api's from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible. ` 📝 5 days ago `
+* [hyperapp](https://github.com/hyperapp/hyperapp) ` 🔥 18.5k ` ` 🌐 2.3k ` - The tiny framework for building hypertext applications. ` 📝 5 days ago `
+* [Alpine.js](https://github.com/alpinejs/alpine) ` 🔥 15.6k ` ` 🌐 13.8k ` - A rugged, minimal framework for composing JavaScript behavior in your markup. ` 📝 6 days ago `
+* [inferno](https://github.com/infernojs/inferno) ` 🔥 14.8k ` ` 🌐 3k ` - An extremely fast, React-like JavaScript library for building modern user interfaces ` 📝 4 days ago `
+* [riot](https://github.com/riot/riot) ` 🔥 14.5k ` ` 🌐 3.8k ` - Simple and elegant component-based UI library ` 📝 21 days ago `
+* [feathers](https://github.com/feathersjs/feathers) ` 🔥 13.3k ` ` 🌐 3.4k ` - A framework for real-time applications and REST APIs with JavaScript and TypeScript ` 📝 6 days ago `
+* [mithril.js](https://github.com/lhorie/mithril.js) ` 🔥 12.7k ` ` 🌐 6.2k ` - A JavaScript Framework for Building Brilliant Applications ` 📝 8 days ago `
 * [knockout](https://github.com/knockout/knockout) ` 🔥 10k ` ` 🌐 5.6k ` - Knockout makes it easier to create rich, responsive UIs with JavaScript ` 📝 2 months ago `
 * [marionette](https://github.com/marionettejs/backbone.marionette) ` 🔥 7.1k ` ` 🌐 2.8k ` - The Backbone Framework ` 📝 5 months ago `
-* [ractive](https://github.com/ractivejs/ractive) ` 🔥 5.8k ` ` 🌐 1.9k ` - Next-generation DOM manipulation ` 📝 8 days ago `
+* [ractive](https://github.com/ractivejs/ractive) ` 🔥 5.8k ` ` 🌐 1.9k ` - Next-generation DOM manipulation ` 📝 9 days ago `
 * [derby](https://github.com/derbyjs/derby) ` 🔥 4.6k ` ` 🌐 337 ` - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers 
 * [spine](https://github.com/spine/spine) ` 🔥 3.6k ` ` 🌐 406 ` - Lightweight MVC library for building JavaScript applications ` 📝 4 years ago `
 * [rivets](https://github.com/mikeric/rivets) ` 🔥 3.2k ` ` 🌐 253 ` - Lightweight and powerful data binding. ` 📝 5 years ago `
@@ -230,7 +230,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [thorax](https://github.com/walmartlabs/thorax) ` 🔥 1.3k `  - Strengthening your Backbone ` 📝 a month ago `
 * [ripple](https://github.com/ripplejs/ripple) ` 🔥 1.3k ` ` 🌐 11 ` - A tiny foundation for building reactive views ` 📝 7 years ago `
 * [espresso.js](https://github.com/techlayer/espresso.js) ` 🔥 519 ` ` 🌐 2 ` - Super minimal MVC library 
-* [Lucia](https://github.com/aidenybai/lucia) ` 🔥 467 ` ` 🌐 7 ` - 3kb library for tiny web apps ` 📝 3 days ago `
+* [Lucia](https://github.com/aidenybai/lucia) ` 🔥 467 ` ` 🌐 7 ` - 3kb library for tiny web apps ` 📝 4 days ago `
 * [atvjs](https://github.com/emadalam/atvjs) ` 🔥 263 ` ` 🌐 26 ` - Blazing fast Apple TV application development using pure JavaScript ` 📝 2 years ago `
 * [Keo](https://github.com/Wildhoney/Keo) ` 🔥 224 ` ` 🌐 7 ` - Plain functions for a more functional Deku approach to creating stateless React components, with functional goodies such as compose, memoize, etc... for free. ` 📝 a year ago `
 * [aurelia](http://aurelia.io)   
@@ -241,13 +241,13 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Node-Powered CMS Frameworks [🔝](#readme)
 
-* [Ghost](https://github.com/tryghost/Ghost) ` 🔥 37.2k ` ` 🌐 804 ` - The #1 headless Node.js CMS for professional publishing ` 📝 2 days ago `
-* [Strapi](https://github.com/strapi/strapi) ` 🔥 36k ` ` 🌐 14.1k ` - Open source Node.js Headless CMS to easily build customisable APIs ` 📝 4 days ago `
+* [Ghost](https://github.com/tryghost/Ghost) ` 🔥 37.2k ` ` 🌐 804 ` - The #1 headless Node.js CMS for professional publishing ` 📝 3 days ago `
+* [Strapi](https://github.com/strapi/strapi) ` 🔥 36k ` ` 🌐 14.1k ` - Open source Node.js Headless CMS to easily build customisable APIs ` 📝 5 days ago `
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ` 🔥 11.2k `  - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. ` 📝 3 months ago `
-* [KeystoneJS](https://github.com/keystonejs/keystone) ` 🔥 3.8k ` ` 🌐 548 ` - The most powerful headless CMS for Node.js — built with GraphQL and React ` 📝 3 days ago `
-* [Apostrophe](https://github.com/punkave/apostrophe) ` 🔥 3.5k ` ` 🌐 417 ` - ApostropheCMS is a full-featured, open-source CMS built with Node.js that seeks to empower organizations by combining in-context editing and headless architecture in a full-stack JS environment. ` 📝 19 days ago `
+* [KeystoneJS](https://github.com/keystonejs/keystone) ` 🔥 3.8k ` ` 🌐 548 ` - The most powerful headless CMS for Node.js — built with GraphQL and React ` 📝 4 days ago `
+* [Apostrophe](https://github.com/punkave/apostrophe) ` 🔥 3.5k ` ` 🌐 417 ` - ApostropheCMS is a full-featured, open-source CMS built with Node.js that seeks to empower organizations by combining in-context editing and headless architecture in a full-stack JS environment. ` 📝 20 days ago `
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) ` 🔥 1.6k `  - Business class content management for Node.js (plugins, server cluster management, data-driven pages) ` 📝 a year ago `
-* [Factor](https://github.com/fiction-com/factor) ` 🔥 1.2k ` ` 🌐 40 ` - 100% JavaScript framework for marketing sites and application dashboards. ` 📝 5 months ago `
+* [Factor](https://github.com/fiction-com/factor) ` 🔥 1.2k ` ` 🌐 40 ` - 100% JavaScript framework for marketing sites and application dashboards. ` 📝 6 months ago `
 * [Cody](https://github.com/jcoppieters/cody) ` 🔥 667 ` ` 🌐 7 ` - Javascript Content Management System running on Node.js ` 📝 a year ago `
 * [We.js](https://github.com/wejs/we/) ` 🔥 205 `  - We.js, extensible Node.js MVC framework - CLI ` 📝 9 months ago `
 * [Nodizecms](https://github.com/nodize/nodizecms) ` 🔥 177 `  - A Node.js CMS written in CoffeeScript, with a user friendly backend ` 📝 8 years ago `
@@ -257,9 +257,9 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 ## Templating Engines [🔝](#readme)
 
 * [Pug](https://github.com/pugjs/pug) ` 🔥 20.1k ` ` 🌐 317k ` - Pug – robust, elegant, feature rich template engine for Node.js ` 📝 2 months ago `
-* [handlebars.js](https://github.com/wycats/handlebars.js/) ` 🔥 15.7k ` ` 🌐 3m ` - Millions of developers and companies build, ship, and maintain their software on GitHub — the largest and most advanced development platform in the world. ` 📝 5 months ago `
-* [mustache.js](https://github.com/janl/mustache.js) ` 🔥 14.6k ` ` 🌐 281k ` - Minimal templating with {{mustaches}} in JavaScript ` 📝 13 days ago `
-* [marko](https://github.com/marko-js/marko) ` 🔥 10.2k ` ` 🌐 3k ` - A declarative, HTML-based language that makes building web apps fun ` 📝 4 days ago `
+* [handlebars.js](https://github.com/wycats/handlebars.js/) ` 🔥 15.7k ` ` 🌐 3m ` - Millions of developers and companies build, ship, and maintain their software on GitHub — the largest and most advanced development platform in the world. ` 📝 6 months ago `
+* [mustache.js](https://github.com/janl/mustache.js) ` 🔥 14.6k ` ` 🌐 281k ` - Minimal templating with {{mustaches}} in JavaScript ` 📝 14 days ago `
+* [marko](https://github.com/marko-js/marko) ` 🔥 10.2k ` ` 🌐 3k ` - A declarative, HTML-based language that makes building web apps fun ` 📝 5 days ago `
 * [EJS](https://github.com/mde/ejs) ` 🔥 5.4k ` ` 🌐 2.4m ` - Embedded JavaScript templates -- http://ejs.co ` 📝 2 months ago `
 * [hogan.js](https://github.com/twitter/hogan.js) ` 🔥 5.1k ` ` 🌐 39.5k ` - A compiler for the Mustache templating language ` 📝 2 years ago `
 * [doT](https://github.com/olado/doT) ` 🔥 4.7k ` ` 🌐 15.3k ` - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more. ` 📝 9 months ago `
@@ -281,25 +281,25 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Data Visualization [🔝](#readme)
 
-* [d3](https://github.com/d3/d3) ` 🔥 96.6k ` ` 🌐 205k ` - Bring data to life with SVG, Canvas and HTML. ` 📝 10 days ago `
-* [three.js](https://github.com/mrdoob/three.js) ` 🔥 69.9k ` ` 🌐 51.1k ` - JavaScript 3D library. ` 📝 2 days ago `
+* [d3](https://github.com/d3/d3) ` 🔥 96.6k ` ` 🌐 205k ` - Bring data to life with SVG, Canvas and HTML. ` 📝 11 days ago `
+* [three.js](https://github.com/mrdoob/three.js) ` 🔥 69.9k ` ` 🌐 51.1k ` - JavaScript 3D library. ` 📝 3 days ago `
 * [Chart.js](https://github.com/chartjs/Chart.js) ` 🔥 53.3k ` ` 🌐 359k ` - Simple HTML5 Charts using the <canvas> tag 
-* [echarts](https://github.com/apache/echarts) ` 🔥 46.1k ` ` 🌐 141k ` - Apache ECharts is a powerful, interactive charting and data visualization library for browser ` 📝 3 days ago `
-* [fabric.js](https://github.com/kangax/fabric.js) ` 🔥 18.5k ` ` 🌐 4.2k ` - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser ` 📝 6 days ago `
-* [recharts](https://github.com/recharts/recharts) ` 🔥 16.2k ` ` 🌐 45.2k ` - Redefined chart library built with React and D3 ` 📝 6 days ago `
-* [BabylonJS](https://github.com/BabylonJS/Babylon.js) ` 🔥 13.9k ` ` 🌐 2.5k ` - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ` 📝 2 days ago `
-* [Frappe Charts](https://github.com/frappe/charts) ` 🔥 13.9k ` ` 🌐 1.1k ` - Simple, responsive, modern SVG Charts with zero dependencies ` 📝 8 days ago `
+* [echarts](https://github.com/apache/echarts) ` 🔥 46.1k ` ` 🌐 141k ` - Apache ECharts is a powerful, interactive charting and data visualization library for browser ` 📝 4 days ago `
+* [fabric.js](https://github.com/kangax/fabric.js) ` 🔥 18.5k ` ` 🌐 4.2k ` - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser ` 📝 7 days ago `
+* [recharts](https://github.com/recharts/recharts) ` 🔥 16.2k ` ` 🌐 45.2k ` - Redefined chart library built with React and D3 ` 📝 7 days ago `
+* [BabylonJS](https://github.com/BabylonJS/Babylon.js) ` 🔥 13.9k ` ` 🌐 2.5k ` - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ` 📝 3 days ago `
+* [Frappe Charts](https://github.com/frappe/charts) ` 🔥 13.9k ` ` 🌐 1.1k ` - Simple, responsive, modern SVG Charts with zero dependencies ` 📝 9 days ago `
 * [chartist-js](https://github.com/gionkunz/chartist-js) ` 🔥 12.6k ` ` 🌐 44k ` - Simple responsive charts ` 📝 a year ago `
 * [paper.js](https://github.com/paperjs/paper.js) ` 🔥 12.4k ` ` 🌐 2.8k ` - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey ` 📝 a month ago `
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) ` 🔥 10.9k ` ` 🌐 31.3k ` - JavaScript Vector Library ` 📝 10 months ago `
-* [G2](https://github.com/antvis/G2) ` 🔥 10.6k ` ` 🌐 7.6k ` - A highly interactive data-driven visualization grammar for statistical charts. ` 📝 5 days ago `
+* [G2](https://github.com/antvis/G2) ` 🔥 10.6k ` ` 🌐 7.6k ` - A highly interactive data-driven visualization grammar for statistical charts. ` 📝 6 days ago `
 * [trianglify](https://github.com/qrohlf/trianglify) ` 🔥 9.7k `  - Algorithmically generated triangle art ` 📝 6 months ago `
 * [sigma.js](https://github.com/jacomyal/sigma.js) ` 🔥 9.4k ` ` 🌐 414 ` - A JavaScript library dedicated to graph drawing 
-* [c3](https://github.com/c3js/c3) ` 🔥 9.1k `  - A D3-based reusable chart library ` 📝 10 days ago `
+* [c3](https://github.com/c3js/c3) ` 🔥 9.1k `  - A D3-based reusable chart library ` 📝 11 days ago `
 * [svg.js](https://github.com/wout/svg.js) ` 🔥 8.8k ` ` 🌐 814 ` - The lightweight library for manipulating and animating SVG ` 📝 3 months ago `
 * [vis](https://github.com/almende/vis) ` 🔥 8k ` ` 🌐 3.7k ` - This project is not maintained anymore! Please go to https://github.com/visjs ` 📝 2 years ago `
-* [dc.js](https://github.com/dc-js/dc.js) ` 🔥 7.2k ` ` 🌐 744 ` - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js ` 📝 17 days ago `
-* [two.js](https://github.com/jonobr1/two.js) ` 🔥 7.1k `  - A renderer agnostic two-dimensional drawing api for the web. ` 📝 2 days ago `
+* [dc.js](https://github.com/dc-js/dc.js) ` 🔥 7.2k ` ` 🌐 744 ` - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js ` 📝 18 days ago `
+* [two.js](https://github.com/jonobr1/two.js) ` 🔥 7.1k `  - A renderer agnostic two-dimensional drawing api for the web. ` 📝 3 days ago `
 * [nvd3](https://github.com/novus/nvd3) ` 🔥 7.1k ` ` 🌐 18.8k ` - A reusable charting library written in d3.js ` 📝 3 years ago `
 * [morris.js](https://github.com/morrisjs/morris.js) ` 🔥 7k `  - Pretty time-series line graphs ` 📝 5 years ago `
 * [rickshaw](https://github.com/shutterstock/rickshaw) ` 🔥 6.5k ` ` 🌐 3.7k ` - JavaScript toolkit for creating interactive real-time graphs ` 📝 a year ago `
@@ -312,7 +312,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) ` 🔥 3.4k ` ` 🌐 2k ` - Create word clouds in JavaScript. ` 📝 3 years ago `
 * [arbor](https://github.com/samizdatco/arbor) ` 🔥 2.6k `  - a graph visualization library using web workers and jQuery ` 📝 9 years ago `
 * [Frappe Gantt](https://github.com/frappe/gantt) ` 🔥 2.3k ` ` 🌐 394 ` - Open Source Javascript Gantt ` 📝 10 months ago `
-* [G2Plot](https://github.com/antvis/G2Plot) ` 🔥 1.8k ` ` 🌐 884 ` - An interactive and responsive charting library ` 📝 5 days ago `
+* [G2Plot](https://github.com/antvis/G2Plot) ` 🔥 1.8k ` ` 🌐 884 ` - An interactive and responsive charting library ` 📝 6 days ago `
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) ` 🔥 1.6k `  - Dynamic HTML5 visualization ` 📝 8 years ago `
 * [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) ` 🔥 1.5k `  - Charts for Raphaël 
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) ` 🔥 1.2k `  - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser ` 📝 8 years ago `
@@ -325,39 +325,39 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 ## Timeline [🔝](#readme)
 
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) ` 🔥 6.8k `  - JavaScript library for HTML5 & CSS3 time sheets ` 📝 3 years ago `
-* [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) ` 🔥 2.2k ` ` 🌐 3 ` - TimelineJS v3: A Storytelling Timeline built in JavaScript. http://timeline.knightlab.com ` 📝 5 days ago `
+* [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) ` 🔥 2.2k ` ` 🌐 3 ` - TimelineJS v3: A Storytelling Timeline built in JavaScript. http://timeline.knightlab.com ` 📝 6 days ago `
   
 ## Spreadsheet [🔝](#readme)
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) ` 🔥 15.1k ` ` 🌐 3.4k ` - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ` 📝 a month ago `
-* [Luckysheet](https://github.com/mengshukeji/Luckysheet) ` 🔥 7.8k ` ` 🌐 3 ` - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. ` 📝 11 days ago `
+* [Luckysheet](https://github.com/mengshukeji/Luckysheet) ` 🔥 7.8k ` ` 🌐 3 ` - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. ` 📝 12 days ago `
 * [Frappe Datatable](https://github.com/frappe/datatable) ` 🔥 606 ` ` 🌐 193 ` - A simple, modern and interactive datatable library for the web ` 📝 7 months ago `
   
 ## Editors [🔝](#readme)
 
 * [quill](https://github.com/quilljs/quill) ` 🔥 29.6k ` ` 🌐 50.6k ` - Quill is a modern WYSIWYG editor built for compatibility and extensibility. ` 📝 a month ago `
-* [ace](https://github.com/ajaxorg/ace) ` 🔥 22.9k `  - Ace (Ajax.org Cloud9 Editor) ` 📝 3 days ago `
-* [CodeMirror](https://github.com/codemirror/CodeMirror) ` 🔥 22.6k ` ` 🌐 89.6k ` - In-browser code editor ` 📝 3 days ago `
-* [Draft.js](https://github.com/facebook/draft-js) ` 🔥 20.2k ` ` 🌐 85.1k ` - A React framework for building text editors. ` 📝 3 days ago `
-* [trix](https://github.com/basecamp/trix) ` 🔥 16.1k ` ` 🌐 5k ` - A rich text editor for everyday writing ` 📝 3 days ago `
+* [ace](https://github.com/ajaxorg/ace) ` 🔥 22.9k `  - Ace (Ajax.org Cloud9 Editor) ` 📝 4 days ago `
+* [CodeMirror](https://github.com/codemirror/CodeMirror) ` 🔥 22.6k ` ` 🌐 89.6k ` - In-browser code editor ` 📝 4 days ago `
+* [Draft.js](https://github.com/facebook/draft-js) ` 🔥 20.2k ` ` 🌐 85.1k ` - A React framework for building text editors. ` 📝 4 days ago `
+* [trix](https://github.com/basecamp/trix) ` 🔥 16.1k ` ` 🌐 5k ` - A rich text editor for everyday writing ` 📝 4 days ago `
 * [medium-editor](https://github.com/yabwe/medium-editor) ` 🔥 15.1k ` ` 🌐 2.9k ` - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution. ` 📝 9 months ago `
-* [Summernote](https://github.com/summernote/summernote) ` 🔥 10.2k ` ` 🌐 14.8k ` - Super simple WYSIWYG editor ` 📝 17 days ago `
-* [TinyMCE](https://github.com/tinymce/tinymce) ` 🔥 9.4k ` ` 🌐 944 ` - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular ` 📝 3 days ago `
-* [jsoneditor](https://github.com/josdejong/jsoneditor) ` 🔥 8.5k ` ` 🌐 2.8k ` - A web-based tool to view, edit, format, and validate JSON ` 📝 9 days ago `
+* [Summernote](https://github.com/summernote/summernote) ` 🔥 10.2k ` ` 🌐 14.8k ` - Super simple WYSIWYG editor ` 📝 18 days ago `
+* [TinyMCE](https://github.com/tinymce/tinymce) ` 🔥 9.4k ` ` 🌐 944 ` - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular ` 📝 4 days ago `
+* [jsoneditor](https://github.com/josdejong/jsoneditor) ` 🔥 8.5k ` ` 🌐 2.8k ` - A web-based tool to view, edit, format, and validate JSON ` 📝 10 days ago `
 * [wysihtml5](https://github.com/xing/wysihtml5) ` 🔥 6.6k `  - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles. ` 📝 6 years ago `
 * [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) ` 🔥 5.6k `  - Tiny bootstrap-compatible WISWYG rich text editor ` 📝 6 years ago `
 * [pen](https://github.com/sofish/pen) ` 🔥 4.7k `  - enjoy live editing (+markdown) ` 📝 3 years ago `
 * [vim.js](https://github.com/coolwanglu/vim.js) ` 🔥 4.4k `  - JavaScript port of Vim ` 📝 6 years ago `
 * [EpicEditor](https://github.com/OscarGodson/EpicEditor) ` 🔥 4.3k ` ` 🌐 28 ` - EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it. ` 📝 a year ago `
-* [Squire](https://github.com/neilj/Squire) ` 🔥 4.3k ` ` 🌐 1.2k ` - HTML5 rich text editor. Try the demo integration at ` 📝 18 days ago `
+* [Squire](https://github.com/neilj/Squire) ` 🔥 4.3k ` ` 🌐 1.2k ` - HTML5 rich text editor. Try the demo integration at ` 📝 19 days ago `
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) ` 🔥 4.2k `  - Simple, beautiful wysiwyg editor ` 📝 6 years ago `
-* [Trumbowyg](https://github.com/Alex-D/Trumbowyg) ` 🔥 3.5k ` ` 🌐 1.4k ` - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip) ` 📝 11 days ago `
+* [Trumbowyg](https://github.com/Alex-D/Trumbowyg) ` 🔥 3.5k ` ` 🌐 1.4k ` - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip) ` 📝 12 days ago `
 * [editor](https://github.com/lepture/editor) ` 🔥 2.7k `  - A markdown editor. http://lab.lepture.com/editor/ ` 📝 4 years ago `
 * [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ` 🔥 1.7k `  - A modern, simple and elegant WYSIWYG rich text editor. ` 📝 5 years ago `
 * [popline](https://github.com/kenshin54/popline) ` 🔥 1k `  - Popline is an HTML5 Rich-Text-Editor Toolbar ` 📝 a year ago `
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) ` 🔥 527 `  - Raptor, an HTML5 WYSIWYG content editor! 
 * [ckeditor-releases](https://github.com/ckeditor/ckeditor-releases) ` 🔥 509 `  - Official distribution releases of CKEditor 4. ` 📝 3 months ago `
-* [esprima](https://github.com/ariya/esprima) ` 🔥 373 `  - ECMAScript parsing infrastructure for multipurpose analysis ` 📝 10 months ago `
+* [esprima](https://github.com/ariya/esprima) ` 🔥 373 `  - ECMAScript parsing infrastructure for multipurpose analysis ` 📝 a year ago `
   
 ## Documentation [🔝](#readme)
 
@@ -380,16 +380,16 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Files [🔝](#readme)
 
-* [PDF.js](https://github.com/mozilla/pdf.js) ` 🔥 34.6k ` ` 🌐 133 ` - PDF Reader in JavaScript ` 📝 2 days ago `
-* [jsPDF](https://github.com/MrRio/jsPDF) ` 🔥 21.8k ` ` 🌐 26.4k ` - Client-side JavaScript PDF generation for everyone. ` 📝 10 days ago `
-* [Papa Parse](https://github.com/mholt/PapaParse) ` 🔥 9.6k ` ` 🌐 25.8k ` - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input ` 📝 6 days ago `
-* [diff2html](https://github.com/rtfpessoa/diff2html) ` 🔥 1.6k ` ` 🌐 1.6k ` - Pretty diff to html javascript library (diff2html) ` 📝 18 days ago `
-* [jBinary](https://github.com/jDataView/jBinary) ` 🔥 493 ` ` 🌐 77 ` - High-level API for working with binary data. ` 📝 14 days ago `
+* [PDF.js](https://github.com/mozilla/pdf.js) ` 🔥 34.6k ` ` 🌐 133 ` - PDF Reader in JavaScript ` 📝 3 days ago `
+* [jsPDF](https://github.com/MrRio/jsPDF) ` 🔥 21.8k ` ` 🌐 26.4k ` - Client-side JavaScript PDF generation for everyone. ` 📝 11 days ago `
+* [Papa Parse](https://github.com/mholt/PapaParse) ` 🔥 9.6k ` ` 🌐 25.8k ` - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input ` 📝 7 days ago `
+* [diff2html](https://github.com/rtfpessoa/diff2html) ` 🔥 1.6k ` ` 🌐 1.6k ` - Pretty diff to html javascript library (diff2html) ` 📝 19 days ago `
+* [jBinary](https://github.com/jDataView/jBinary) ` 🔥 493 ` ` 🌐 77 ` - High-level API for working with binary data. ` 📝 15 days ago `
   
 ## Functional Programming [🔝](#readme)
 
-* [lodash](https://github.com/lodash/lodash) ` 🔥 49.1k ` ` 🌐 10.4m ` - A modern JavaScript utility library delivering modularity, performance, & extras. ` 📝 2 days ago `
-* [underscore](https://github.com/jashkenas/underscore) ` 🔥 25.9k ` ` 🌐 1.2m ` - JavaScript's utility _ belt ` 📝 11 days ago `
+* [lodash](https://github.com/lodash/lodash) ` 🔥 49.1k ` ` 🌐 10.4m ` - A modern JavaScript utility library delivering modularity, performance, & extras. ` 📝 3 days ago `
+* [underscore](https://github.com/jashkenas/underscore) ` 🔥 25.9k ` ` 🌐 1.2m ` - JavaScript's utility _ belt ` 📝 12 days ago `
 * [lazy.js](https://github.com/dtao/lazy.js) ` 🔥 6k ` ` 🌐 1.8k ` - Like Underscore, but lazier ` 📝 3 years ago `
 * [Sugar](https://github.com/andrewplummer/Sugar) ` 🔥 4.4k ` ` 🌐 3.9k ` - A Javascript library for working with native objects. ` 📝 a year ago `
 * [mout](https://github.com/mout/mout) ` 🔥 1.2k ` ` 🌐 81.8k ` - Modular JavaScript Utilities ` 📝 a year ago `
@@ -400,11 +400,11 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Reactive Programming [🔝](#readme)
 
-* [RxJS](https://github.com/ReactiveX/rxjs) ` 🔥 24.6k ` ` 🌐 5.2m ` - A reactive programming library for JavaScript ` 📝 3 days ago `
-* [MobX](https://github.com/mobxjs/mobx) ` 🔥 23.6k ` ` 🌐 79.8k ` - Simple, scalable state management. ` 📝 3 days ago `
+* [RxJS](https://github.com/ReactiveX/rxjs) ` 🔥 24.6k ` ` 🌐 5.2m ` - A reactive programming library for JavaScript ` 📝 4 days ago `
+* [MobX](https://github.com/mobxjs/mobx) ` 🔥 23.6k ` ` 🌐 79.8k ` - Simple, scalable state management. ` 📝 4 days ago `
 * [Bacon](https://github.com/baconjs/bacon.js) ` 🔥 6.3k ` ` 🌐 2.5k ` - Functional reactive programming library for TypeScript and JavaScript ` 📝 4 months ago `
 * [Most.js](https://github.com/cujojs/most) ` 🔥 3.4k ` ` 🌐 5.6k ` - Ultra-high performance reactive programming ` 📝 7 months ago `
-* [concent](https://github.com/concentjs/concent) ` 🔥 910 ` ` 🌐 61 ` - State management that tailored for react, it is simple, predictable, progressive and efficient. ` 📝 7 days ago `
+* [concent](https://github.com/concentjs/concent) ` 🔥 910 ` ` 🌐 61 ` - State management that tailored for react, it is simple, predictable, progressive and efficient. ` 📝 8 days ago `
 * [Kefir](https://github.com/pozadi/kefir) ` 🔥 7 `  - You're looking for https://github.com/rpominov/kefir ` 📝 6 years ago `
 * [Highland](http://highlandjs.org/)   
 * [Cycle.js](https://cycle.js.org)   
@@ -419,18 +419,18 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 ## Date [🔝](#readme)
 
 * [moment](https://github.com/moment/moment) ` 🔥 45.6k ` ` 🌐 2.3m ` - Parse, validate, manipulate, and display dates in javascript. ` 📝 2 months ago `
-* [dayjs](https://github.com/iamkun/dayjs) ` 🔥 34.7k ` ` 🌐 411k ` - Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API ` 📝 6 days ago `
-* [date-fns](https://github.com/date-fns/date-fns) ` 🔥 25.7k ` ` 🌐 821k ` - Modern JavaScript date utility library ` 📝 10 days ago `
+* [dayjs](https://github.com/iamkun/dayjs) ` 🔥 34.7k ` ` 🌐 411k ` - Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API ` 📝 7 days ago `
+* [date-fns](https://github.com/date-fns/date-fns) ` 🔥 25.7k ` ` 🌐 821k ` - Modern JavaScript date utility library ` 📝 11 days ago `
 * [luxon](https://github.com/moment/luxon) ` 🔥 11k ` ` 🌐 56k ` - A library for working with dates and times in JS ` 📝 a month ago `
 * [timeago.js](https://github.com/hustcc/timeago.js) ` 🔥 4.4k ` ` 🌐 7.5k ` - timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement. ` 📝 2 months ago `
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) ` 🔥 3.8k ` ` 🌐 27 ` - The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. '4 minutes ago'). ` 📝 10 months ago `
 * [moment-timezone](https://github.com/moment/moment-timezone) ` 🔥 3.6k ` ` 🌐 489k ` - Timezone support for moment.js ` 📝 3 months ago `
 * [ms.js](https://github.com/rauchg/ms.js) ` 🔥 3.4k `  - Tiny millisecond conversion utility ` 📝 5 months ago `
-* [fecha](https://github.com/taylorhakes/fecha) ` 🔥 1.9k ` ` 🌐 137k ` - Lightweight and simple JS date formatting and parsing ` 📝 20 days ago `
+* [fecha](https://github.com/taylorhakes/fecha) ` 🔥 1.9k ` ` 🌐 137k ` - Lightweight and simple JS date formatting and parsing ` 📝 21 days ago `
 * [date](https://github.com/MatthewMueller/date) ` 🔥 1.4k `  - Date() for humans 
 * [timezone-js](https://github.com/mde/timezone-js) ` 🔥 830 ` ` 🌐 226 ` - DEPRECATED: Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data. ` 📝 4 years ago `
 * [countdown.js](https://github.com/gumroad/countdown.js) ` 🔥 387 `  - Super simple countdowns. 
-* [map-countdown](https://github.com/dawidjaniga/map-countdown) ` 🔥 2 `  - Display the countdown on top of the Google Maps ` 📝 4 months ago `
+* [map-countdown](https://github.com/dawidjaniga/map-countdown) ` 🔥 2 `  - Display the countdown on top of the Google Maps ` 📝 5 months ago `
   
 ## String [🔝](#readme)
 
@@ -452,7 +452,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) ` 🔥 8.8k ` ` 🌐 55.6k ` - A javascript library for formatting and manipulating numbers. ` 📝 4 years ago `
 * [odometer](https://github.com/HubSpot/odometer) ` 🔥 7.1k ` ` 🌐 849 ` - Smoothly transitions numbers with ease. #hubspot-open-source ` 📝 4 years ago `
 * [chance.js](https://github.com/chancejs/chancejs) ` 🔥 5.5k ` ` 🌐 45.1k ` - Chance - Random generator helper for JavaScript ` 📝 2 months ago `
-* [Fraction.js](https://github.com/infusion/Fraction.js) ` 🔥 314 ` ` 🌐 62.4k ` - Fraction is a rational number library written in JavaScript ` 📝 15 days ago `
+* [Fraction.js](https://github.com/infusion/Fraction.js) ` 🔥 314 ` ` 🌐 62.4k ` - Fraction is a rational number library written in JavaScript ` 📝 16 days ago `
 * [Complex.js](https://github.com/infusion/Complex.js) ` 🔥 168 ` ` 🌐 15.9k ` - A complex number library ` 📝 2 months ago `
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) ` 🔥 88 ` ` 🌐 33 ` - A JavaScript library to work with polynomials ` 📝 7 months ago `
 * [Quaternion.js](https://github.com/infusion/Quaternion.js) ` 🔥 59 ` ` 🌐 147 ` - A JavaScript Quaternion library ` 📝 7 months ago `
@@ -472,7 +472,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Cookies](https://github.com/ScottHamper/Cookies) ` 🔥 1.8k ` ` 🌐 3.5k ` - JavaScript Client-Side Cookie Manipulation Library ` 📝 4 years ago `
 * [jStorage](https://github.com/andris9/jStorage) ` 🔥 1.5k ` ` 🌐 153 ` - jStorage is a simple key/value database to store data on browser side 
 * [DB.js](https://github.com/aaronpowell/db.js/) ` 🔥 773 ` ` 🌐 109 ` - db.js is a wrapper for IndexedDB to make it easier to work against 
-* [crumbsjs](https://github.com/nirtz89/crumbsjs) ` 🔥 229 ` ` 🌐 3 ` - A lightweight vanilla ES6 cookies and local storage JavaScript library ` 📝 3 days ago `
+* [crumbsjs](https://github.com/nirtz89/crumbsjs) ` 🔥 229 ` ` 🌐 3 ` - A lightweight vanilla ES6 cookies and local storage JavaScript library ` 📝 4 days ago `
 * [bag.js](https://github.com/nodeca/bag.js) ` 🔥 78 ` ` 🌐 13 ` - JS / CSS / files loader + key/value storage ` 📝 a year ago `
 * [sql.js](https://github.com/kripken/sql.js) ` 🔥 42 `  - Millions of developers and companies build, ship, and maintain their software on GitHub — the largest and most advanced development platform in the world. ` 📝 a year ago `
 * [awesome-web-storage](https://github.com/softvar/awesome-web-storage)   
@@ -489,7 +489,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## I18n And L10n [🔝](#readme)
 
-* [i18next](https://github.com/i18next/i18next) ` 🔥 5.6k ` ` 🌐 46.7k ` - i18next: learn once - translate everywhere ` 📝 19 days ago `
+* [i18next](https://github.com/i18next/i18next) ` 🔥 5.6k ` ` 🌐 46.7k ` - i18next: learn once - translate everywhere ` 📝 20 days ago `
 * [polyglot](https://github.com/airbnb/polyglot.js) ` 🔥 3.4k ` ` 🌐 35.6k ` - Give your JavaScript the ability to speak many languages. ` 📝 4 months ago `
 * [ttag](https://github.com/ttag-org/ttag) ` 🔥 250 ` ` 🌐 196 ` - simple approach for javascript localization ` 📝 a month ago `
 * [babelfish](https://github.com/nodeca/babelfish/) ` 🔥 226 ` ` 🌐 45 ` - human friendly i18n for javascript (node.js + browser) ` 📝 a year ago `
@@ -542,12 +542,12 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## API [🔝](#readme)
 
-* [axios](https://github.com/axios/axios) ` 🔥 83.6k ` ` 🌐 4.1m ` - Promise based HTTP client for the browser and node.js ` 📝 6 days ago `
-* [React Query](https://github.com/tannerlinsley/react-query) ` 🔥 19.4k ` ` 🌐 9.2k ` - Hooks for fetching, caching and updating asynchronous data in React ` 📝 3 days ago `
-* [SWR](https://github.com/vercel/swr) ` 🔥 16.8k ` ` 🌐 20.1k ` - React Hooks library for remote data fetching ` 📝 3 days ago `
+* [axios](https://github.com/axios/axios) ` 🔥 83.6k ` ` 🌐 4.1m ` - Promise based HTTP client for the browser and node.js ` 📝 7 days ago `
+* [React Query](https://github.com/tannerlinsley/react-query) ` 🔥 19.4k ` ` 🌐 9.2k ` - Hooks for fetching, caching and updating asynchronous data in React ` 📝 4 days ago `
+* [SWR](https://github.com/vercel/swr) ` 🔥 16.8k ` ` 🌐 20.1k ` - React Hooks library for remote data fetching ` 📝 4 days ago `
 * [wretch](https://github.com/elbywan/wretch) ` 🔥 2.2k ` ` 🌐 633 ` - A tiny wrapper built around fetch with an intuitive syntax. ` 📝 a month ago `
 * [bottleneck](https://github.com/SGrondin/bottleneck) ` 🔥 1.1k ` ` 🌐 31.2k ` - Job scheduler and rate limiter, supports Clustering ` 📝 9 months ago `
-* [Optic](https://github.com/opticdev/optic) ` 🔥 800 ` ` 🌐 10 ` - Optic documents and tests your API as you build it ` 📝 2 days ago `
+* [Optic](https://github.com/opticdev/optic) ` 🔥 800 ` ` 🌐 10 ` - Optic documents and tests your API as you build it ` 📝 3 days ago `
 * [jquery.rest](https://github.com/jpillora/jquery.rest) ` 🔥 616 `  - A jQuery plugin for easy consumption of RESTful APIs ` 📝 8 months ago `
 * [amygdala](https://github.com/lincolnloop/amygdala) ` 🔥 393 ` ` 🌐 15 ` - RESTful HTTP client for JavaScript powered web applications ` 📝 5 years ago `
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) ` 🔥 225 ` ` 🌐 933 ` - JavaScript OAuth 1.0a signature generator (RFC 5849) for node and the browser ` 📝 3 years ago `
@@ -586,8 +586,8 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Code highlighting [🔝](#readme)
 
-* [Highlight.js](https://github.com/isagalaev/highlight.js) ` 🔥 18.3k ` ` 🌐 760k ` - JavaScript syntax highlighter with language auto-detection and zero dependencies. ` 📝 3 days ago `
-* [PrismJS](https://github.com/PrismJS/prism) ` 🔥 9.1k ` ` 🌐 199k ` - Lightweight, robust, elegant syntax highlighting. ` 📝 8 days ago `
+* [Highlight.js](https://github.com/isagalaev/highlight.js) ` 🔥 18.3k ` ` 🌐 760k ` - JavaScript syntax highlighter with language auto-detection and zero dependencies. ` 📝 4 days ago `
+* [PrismJS](https://github.com/PrismJS/prism) ` 🔥 9.1k ` ` 🌐 199k ` - Lightweight, robust, elegant syntax highlighting. ` 📝 9 days ago `
   
 ## Loading Status [🔝](#readme)
 
@@ -606,13 +606,13 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Validation [🔝](#readme)
 
-* [validator.js](https://github.com/chriso/validator.js) ` 🔥 17.5k ` ` 🌐 678k ` - String validation ` 📝 5 days ago `
+* [validator.js](https://github.com/chriso/validator.js) ` 🔥 17.5k ` ` 🌐 678k ` - String validation ` 📝 6 days ago `
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) ` 🔥 10k ` ` 🌐 309k ` - jQuery Validation Plugin library sources ` 📝 3 months ago `
 * [is.js](https://github.com/arasatasaygin/is.js) ` 🔥 9.1k ` ` 🌐 14.6k ` - Micro check library ` 📝 a year ago `
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) ` 🔥 9k ` ` 🌐 2.1k ` - Validate your forms, frontend, without writing a single line of javascript ` 📝 2 months ago `
 * [validate.js](https://github.com/rickharrison/validate.js) ` 🔥 2.5k ` ` 🌐 101 ` - Lightweight JavaScript form validation library inspired by CodeIgniter. ` 📝 4 years ago `
 * [validatr](https://github.com/jaymorrow/validatr/) ` 🔥 279 `  - Cross Browser HTML5 Form Validation. 
-* [Funval](https://github.com/neuledge/funval) ` 🔥 199 ` ` 🌐 10 ` - Joi like validations for TypeScript ` 📝 8 days ago `
+* [Funval](https://github.com/neuledge/funval) ` 🔥 199 ` ` 🌐 10 ` - Joi like validations for TypeScript ` 📝 9 days ago `
 * [FieldVal](https://github.com/FieldVal/fieldval-js) ` 🔥 134 ` ` 🌐 13 ` - Millions of developers and companies build, ship, and maintain their software on GitHub — the largest and most advanced development platform in the world. ` 📝 4 years ago `
 * [FormValidation](http://formvalidation.io/)   
   
@@ -629,9 +629,9 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 
 * [intro.js](https://github.com/usablica/intro.js) ` 🔥 20.1k ` ` 🌐 2k ` - A better way for new feature introduction and step-by-step users guide for your website and project. ` 📝 a month ago `
 * [driver.js](https://github.com/kamranahmedse/driver.js) ` 🔥 12.5k ` ` 🌐 8.2k ` - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page ` 📝 5 months ago `
-* [shepherd](https://github.com/HubSpot/shepherd) ` 🔥 9.1k ` ` 🌐 292 ` - Guide your users through a tour of your app ` 📝 4 days ago `
+* [shepherd](https://github.com/HubSpot/shepherd) ` 🔥 9.1k ` ` 🌐 292 ` - Guide your users through a tour of your app ` 📝 5 days ago `
 * [chardin.js](https://github.com/heelhook/chardin.js) ` 🔥 5k ` ` 🌐 153 ` - Simple overlay instructions for your apps. ` 📝 8 months ago `
-* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) ` 🔥 4.4k ` ` 🌐 543 ` - Quick and easy product tours with Twitter Bootstrap Popovers ` 📝 25 days ago `
+* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) ` 🔥 4.4k ` ` 🌐 543 ` - Quick and easy product tours with Twitter Bootstrap Popovers ` 📝 a month ago `
 * [hopscotch](https://github.com/linkedin/hopscotch) ` 🔥 4.3k `  - A framework to make it easy for developers to add product tours to their pages. ` 📝 2 months ago `
 * [joyride](https://github.com/zurb/joyride) ` 🔥 1.4k ` ` 🌐 1 ` - jQuery feature tour plugin. ` 📝 8 months ago `
 * [tourist](https://github.com/easelinc/tourist) ` 🔥 1.2k `  - Simple, flexible tours for your app ` 📝 6 years ago `
@@ -644,7 +644,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [noty](https://github.com/needim/noty) ` 🔥 6.8k `  - DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog. ` 📝 2 months ago `
 * [notie](https://github.com/jaredreich/notie) ` 🔥 6.1k ` ` 🌐 699 ` - a clean and simple notification, input, and selection suite for javascript, with no dependencies ` 📝 3 years ago `
 * [messenger](https://github.com/HubSpot/messenger) ` 🔥 4.1k `  - Growl-style alerts and messages for your app. #hubspot-open-source ` 📝 3 years ago `
-* [pnotify](https://github.com/sciactive/pnotify) ` 🔥 3.6k ` ` 🌐 3.6k ` - Beautiful JavaScript notifications with Web Notifications support. ` 📝 11 days ago `
+* [pnotify](https://github.com/sciactive/pnotify) ` 🔥 3.6k ` ` 🌐 3.6k ` - Beautiful JavaScript notifications with Web Notifications support. ` 📝 12 days ago `
 * [iziToast](https://github.com/dolce/iziToast) ` 🔥 2.2k ` ` 🌐 2.8k ` - Elegant, responsive, flexible and lightweight notification plugin with no dependencies. ` 📝 2 years ago `
 * [humane-js](https://github.com/wavded/humane-js) ` 🔥 2.1k ` ` 🌐 232 ` - A simple, modern, browser notification system 
 * [smoke.js](https://github.com/hxgf/smoke.js) ` 🔥 936 `  - framework-agnostic styled alert system for javascript 
@@ -653,7 +653,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 
 * [reveal.js](https://github.com/hakimel/reveal.js) ` 🔥 56.1k ` ` 🌐 535k ` - The HTML Presentation Framework ` 📝 2 months ago `
 * [impress.js](https://github.com/impress/impress.js) ` 🔥 36.2k ` ` 🌐 108 ` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ` 📝 2 months ago `
-* [Swiper](https://github.com/nolimits4web/Swiper) ` 🔥 27.1k ` ` 🌐 133k ` - Most modern mobile touch slider with hardware accelerated transitions ` 📝 2 days ago `
+* [Swiper](https://github.com/nolimits4web/Swiper) ` 🔥 27.1k ` ` 🌐 133k ` - Most modern mobile touch slider with hardware accelerated transitions ` 📝 3 days ago `
 * [slick](https://github.com/kenwheeler/slick) ` 🔥 26.7k ` ` 🌐 123k ` - the last carousel you'll ever need ` 📝 a year ago `
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ` 🔥 21k ` ` 🌐 11.4k ` - JavaScript image gallery for mobile and desktop, modular, framework independent ` 📝 2 years ago `
 * [Flickity](https://github.com/metafizzy/flickity) ` 🔥 6.7k ` ` 🌐 6.3k ` - Touch, responsive, flickable carousels ` 📝 4 months ago `
@@ -665,7 +665,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [vegas](https://github.com/jaysalvat/vegas) ` 🔥 1.8k ` ` 🌐 254 ` - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements. ` 📝 3 months ago `
 * [Strut](https://github.com/tantaman/Strut) ` 🔥 1.6k `  - Strut - An Impress.js and Bespoke.js Presentation Editor ` 📝 a month ago `
 * [slidr](https://github.com/bchanx/slidr) ` 🔥 1.6k `  - add some slide effects. 
-* [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) ` 🔥 1.5k ` ` 🌐 337 ` - A lightweight carousel library with fluid motion and great swipe precision ` 📝 4 days ago `
+* [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) ` 🔥 1.5k ` ` 🌐 337 ` - A lightweight carousel library with fluid motion and great swipe precision ` 📝 5 days ago `
 * [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) ` 🔥 552 `  - Simple to use, simple to theme, simple to customise. ` 📝 6 years ago `
 * [jcSlider](https://github.com/JoanClaret/jcSlider) ` 🔥 52 ` ` 🌐 3 ` - A responsive slider jQuery plugin with CSS animations ` 📝 5 years ago `
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) ` 🔥 52 `  - A jQuery plugin for a slider with adaptive colored figcaption and navigation. 
@@ -675,7 +675,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Range Sliders [🔝](#readme)
 
-* [noUiSlider](https://github.com/leongersen/noUiSlider) ` 🔥 4.9k ` ` 🌐 41.2k ` - noUiSlider is a lightweight JavaScript range slider library with full multi-touch support. It fits wonderfully in responsive designs and has no dependencies. ` 📝 10 days ago `
+* [noUiSlider](https://github.com/leongersen/noUiSlider) ` 🔥 4.9k ` ` 🌐 41.2k ` - noUiSlider is a lightweight JavaScript range slider library with full multi-touch support. It fits wonderfully in responsive designs and has no dependencies. ` 📝 11 days ago `
 * [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) ` 🔥 2.4k ` ` 🌐 35.4k ` - jQuery only range slider ` 📝 2 months ago `
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) ` 🔥 2.1k ` ` 🌐 1.1k ` - HTML5 input range slider element polyfill ` 📝 2 months ago `
 * [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) ` 🔥 679 ` ` 🌐 8 ` - A jquery UI range selection slider that supports dates ` 📝 2 years ago `
@@ -697,7 +697,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Calendar [🔝](#readme)
 
-    * [fullcalendar](https://github.com/fullcalendar/fullcalendar) ` 🔥 13.8k ` ` 🌐 29.6k ` - Full-sized drag & drop event calendar ` 📝 3 days ago`
+    * [fullcalendar](https://github.com/fullcalendar/fullcalendar) ` 🔥 13.8k ` ` 🌐 29.6k ` - Full-sized drag & drop event calendar ` 📝 4 days ago`
     * [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) ` 🔥 12.4k ` ` 🌐 67.3k ` - A datepicker for twitter bootstrap (@twbs) ` 📝 3 months ago`
     * [Date Range Picker](https://github.com/dangrossman/daterangepicker) ` 🔥 10.1k ` ` 🌐 11.1k ` - JavaScript Date Range, Date and Time Picker Component ` 📝 9 months ago`
     * [pickadate.js](https://github.com/amsul/pickadate.js) ` 🔥 7.7k ` ` 🌐 1.2k ` - The mobile-friendly, responsive, and lightweight jQuery date & time input picker. ` 📝 2 years ago`
@@ -715,8 +715,8 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * #### File Uploader [🔝](#readme)
 
     * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) ` 🔥 31k ` ` 🌐 2.7k ` - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. ` 📝 5 months ago`
-    * [dropzone](https://github.com/enyo/dropzone) ` 🔥 15.6k ` ` 🌐 50.3k ` - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. ` 📝 24 days ago`
-    * [filepond](https://github.com/pqina/filepond) ` 🔥 10.9k ` ` 🌐 3.3k ` - A flexible and fun JavaScript file upload library ` 📝 3 days ago`
+    * [dropzone](https://github.com/enyo/dropzone) ` 🔥 15.6k ` ` 🌐 50.3k ` - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. ` 📝 25 days ago`
+    * [filepond](https://github.com/pqina/filepond) ` 🔥 10.9k ` ` 🌐 3.3k ` - A flexible and fun JavaScript file upload library ` 📝 4 days ago`
     * [fine-uploader](https://github.com/FineUploader/fine-uploader) ` 🔥 8.1k ` ` 🌐 1.3k ` - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features. ` 📝 2 years ago`
     * [plupload](https://github.com/moxiecode/plupload) ` 🔥 5.5k ` ` 🌐 842 ` - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight. ` 📝 a month ago`
     * [FileAPI](https://github.com/mailru/FileAPI) ` 🔥 3.6k ` ` 🌐 336 ` - FileAPI — a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF. ` 📝 7 months ago`
@@ -724,12 +724,12 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 * #### Other [🔝](#readme)
 
-    * [card](https://github.com/jessepollak/card) ` 🔥 11.2k ` ` 🌐 1.4k ` - make your credit card form better in one line of code ` 📝 23 days ago`
+    * [card](https://github.com/jessepollak/card) ` 🔥 11.2k ` ` 🌐 1.4k ` - make your credit card form better in one line of code ` 📝 24 days ago`
     * [form](https://github.com/malsup/form) ` 🔥 5.1k ` ` 🌐 2.7k ` - jQuery Form Plugin ` 📝 a year ago`
     * [Garlic.js](https://github.com/guillaumepotier/Garlic.js) ` 🔥 2.4k `  - Automatically persist your forms' text and select field values locally, until the form is submitted. ` 📝 a year ago`
     * [Countable](https://github.com/RadLikeWhoa/Countable) ` 🔥 1.6k `  - Add live paragraph-, word- and character-counting to an HTML element. ` 📝 7 months ago`
     * [stretchy](https://github.com/LeaVerou/stretchy) ` 🔥 1.2k `  - Form element autosizing, the way it should be. 
-    * [analytics](https://github.com/davidwells/analytics) ` 🔥 859 ` ` 🌐 751 ` - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors ` 📝 6 days ago`
+    * [analytics](https://github.com/davidwells/analytics) ` 🔥 859 ` ` 🌐 751 ` - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors ` 📝 7 days ago`
   
 ## Tips [🔝](#readme)
 
@@ -750,12 +750,12 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [vex](https://github.com/HubSpot/vex) ` 🔥 6.9k ` ` 🌐 735 ` - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source ` 📝 3 years ago `
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) ` 🔥 5.1k ` ` 🌐 5 ` - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more. ` 📝 4 years ago `
 * [colorbox](https://github.com/jackmoore/colorbox) ` 🔥 4.8k ` ` 🌐 526 ` - A light-weight, customizable lightbox plugin for jQuery ` 📝 7 months ago `
-* [lightGallery](https://github.com/sachinchoolur/lightGallery) ` 🔥 4k ` ` 🌐 1.4k ` - A customizable, modular, responsive, lightbox gallery plugin. ` 📝 5 days ago `
+* [lightGallery](https://github.com/sachinchoolur/lightGallery) ` 🔥 4k ` ` 🌐 1.4k ` - A customizable, modular, responsive, lightbox gallery plugin. ` 📝 6 days ago `
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) ` 🔥 2.2k ` ` 🌐 656 ` - Simple and easy to use lightbox script written in pure JavaScript ` 📝 a year ago `
 * [swipebox](https://github.com/brutaldesign/swipebox) ` 🔥 2k `  - A touchable jQuery lightbox ` 📝 3 months ago `
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) ` 🔥 1.8k ` ` 🌐 182 ` - Avgrund is jQuery plugin with new modal concept for popups ` 📝 10 months ago `
 * [css-modal](https://github.com/drublic/css-modal) ` 🔥 1.8k ` ` 🌐 79 ` - A modal built with pure CSS, enhanced with JavaScript ` 📝 a year ago `
-* [jBox](https://github.com/StephanWagner/jBox) ` 🔥 1.3k ` ` 🌐 100 ` - jBox is a jQuery plugin that makes it easy to create customizable tooltips, modal windows, image galleries and more. ` 📝 4 days ago `
+* [jBox](https://github.com/StephanWagner/jBox) ` 🔥 1.3k ` ` 🌐 100 ` - jBox is a jQuery plugin that makes it easy to create customizable tooltips, modal windows, image galleries and more. ` 📝 5 days ago `
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) ` 🔥 511 ` ` 🌐 121 ` - jQuery plugin for responsive and accessible modal windows and tooltips ` 📝 a year ago `
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) ` 🔥 432 `  - jQuery PopBox UI Element ` 📝 9 years ago `
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) ` 🔥 8 ` ` 🌐 1 ` - Lightweight and easy to use the library for modals ` 📝 3 months ago `
@@ -769,7 +769,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [headroom](https://github.com/WickyNilliams/headroom.js) ` 🔥 10.7k `  - Give your pages some headroom. Hide your header until you need it ` 📝 6 months ago `
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) ` 🔥 9.6k `  - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin ` 📝 a year ago `
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) ` 🔥 6.9k ` ` 🌐 201 ` - Tiny vanilla JS plugin to display large data sets easily ` 📝 2 years ago `
-* [rellax](https://github.com/dixonandmoe/rellax) ` 🔥 5.9k ` ` 🌐 3.6k ` - Lightweight, vanilla javascript parallax library ` 📝 15 days ago `
+* [rellax](https://github.com/dixonandmoe/rellax) ` 🔥 5.9k ` ` 🌐 3.6k ` - Lightweight, vanilla javascript parallax library ` 📝 16 days ago `
 * [stellar.js](https://github.com/markdalgleish/stellar.js) ` 🔥 4.7k ` ` 🌐 211 ` - Stellar.js - Parallax scrolling made easy ` 📝 6 years ago `
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) ` 🔥 3.2k ` ` 🌐 2.1k ` - A simple and fast API to monitor elements as you scroll ` 📝 a year ago `
 * [plax](https://github.com/cameronmcefee/plax) ` 🔥 2.3k ` ` 🌐 9 ` - JQuery powered parallaxing ` 📝 4 years ago `
@@ -782,7 +782,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Slideout](https://github.com/mango/slideout) ` 🔥 8k ` ` 🌐 838 ` - A touch slideout navigation menu for your mobile web apps. ` 📝 3 years ago `
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) ` 🔥 7.7k `  - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's. ` 📝 6 years ago `
 * [mmenu](https://github.com/FrDH/jQuery.mmenu) ` 🔥 2.5k ` ` 🌐 255 ` - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp. ` 📝 a month ago `
-* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) ` 🔥 2.1k ` ` 🌐 3.3k ` - jQuery contextMenu plugin & polyfill ` 📝 7 months ago `
+* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) ` 🔥 2.1k ` ` 🌐 3.3k ` - jQuery contextMenu plugin & polyfill ` 📝 8 months ago `
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) ` 🔥 135 ` ` 🌐 17 ` - A sliding swipe menu that works with touchSwipe library. ` 📝 5 years ago `
   
 ## Table/Grid [🔝](#readme)
@@ -802,7 +802,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Ink](https://github.com/sapo/Ink) ` 🔥 1.9k `  - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping ` 📝 5 months ago `
 * [fluidity](https://github.com/mrmrs/fluidity) ` 🔥 1.1k `  - The worlds smallest fully-responsive css framework ` 📝 5 years ago `
 * [EHTML](https://github.com/Guseyn/EHTML) ` 🔥 161 `  - HTML Framework that allows you not to write JavaScript code. ` 📝 a month ago `
-* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) ` 🔥 100 `  - DataFormsJS  A minimal JavaScript Framework and standalone React and Web Components for rapid development of high quality websites and single page applications. ` 📝 13 days ago `
+* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) ` 🔥 100 `  - DataFormsJS  A minimal JavaScript Framework and standalone React and Web Components for rapid development of high quality websites and single page applications. ` 📝 14 days ago `
 * [Semantic UI](http://semantic-ui.com/)   
 * [w2ui](http://w2ui.com/)   
   
@@ -816,16 +816,16 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 
 * [Leaflet](https://github.com/Leaflet/Leaflet) ` 🔥 30.6k ` ` 🌐 96.8k ` - JavaScript library for mobile-friendly interactive maps ` 📝 a month ago `
 * [gmaps](https://github.com/HPNeo/gmaps) ` 🔥 7.1k ` ` 🌐 3.5k ` - the easiest way to use Google Maps ` 📝 7 months ago `
-* [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) ` 🔥 6.9k ` ` 🌐 2.2k ` - An open-source JavaScript library for world-class 3D globes and maps ` 📝 13 days ago `
+* [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) ` 🔥 6.9k ` ` 🌐 2.2k ` - An open-source JavaScript library for world-class 3D globes and maps ` 📝 14 days ago `
 * [mapbox.js](https://github.com/mapbox/mapbox.js) ` 🔥 1.8k ` ` 🌐 1.3k ` - Mapbox JavaScript API, a Leaflet Plugin ` 📝 2 months ago `
-* [jqvmap](https://github.com/manifestinteractive/jqvmap) ` 🔥 1.8k ` ` 🌐 2.8k ` - jQuery Vector Map Library ` 📝 5 months ago `
+* [jqvmap](https://github.com/manifestinteractive/jqvmap) ` 🔥 1.8k ` ` 🌐 2.8k ` - jQuery Vector Map Library ` 📝 6 months ago `
 * [polymaps](https://github.com/simplegeo/polymaps) ` 🔥 1.6k `  - Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers. ` 📝 10 years ago `
 * [kartograph.js](https://github.com/kartograph/kartograph.js) ` 🔥 1.5k `  - UNMAINTAINED Open source JavaScript renderer for Kartograph SVG maps 
 * [OpenLayers3](http://openlayers.org/)   
   
 ## Animations [🔝](#readme)
 
-* [animate.css](https://github.com/daneden/animate.css) ` 🔥 69.9k ` ` 🌐 82.4k ` - A cross-browser library of CSS animations. As easy to use as an easy thing. ` 📝 5 days ago `
+* [animate.css](https://github.com/daneden/animate.css) ` 🔥 69.9k ` ` 🌐 82.4k ` - A cross-browser library of CSS animations. As easy to use as an easy thing. ` 📝 6 days ago `
 * [impress.js](https://github.com/impress/impress.js) ` 🔥 36.2k ` ` 🌐 108 ` - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ` 📝 2 months ago `
 * [particles.js](https://github.com/VincentGarreau/particles.js) ` 🔥 23.9k ` ` 🌐 8.9k ` - A lightweight JavaScript library for creating particles ` 📝 4 years ago `
 * [velocity](https://github.com/julianshapiro/velocity) ` 🔥 17k ` ` 🌐 22.6k ` - Accelerated JavaScript animation. ` 📝 9 months ago `
@@ -838,10 +838,10 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) ` 🔥 4.4k ` ` 🌐 161 ` - Unobtrusive page transitions with jQuery. ` 📝 4 months ago `
 * [textillate](https://github.com/jschr/textillate) ` 🔥 3.6k `  - A jquery plugin for CSS3 text animations. ` 📝 3 years ago `
 * [animatable](https://github.com/LeaVerou/animatable) ` 🔥 2.5k `  - One property, two values, endless possiblities ` 📝 8 months ago `
-* [tsParticles](https://github.com/matteobruni/tsparticles) ` 🔥 1.8k ` ` 🌐 2.3k ` - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno. ` 📝 6 days ago `
-* [particles-bg](https://github.com/lindelof/particles-bg) ` 🔥 361 ` ` 🌐 1.8k ` - React particles animation background component ` 📝 24 days ago `
+* [tsParticles](https://github.com/matteobruni/tsparticles) ` 🔥 1.8k ` ` 🌐 2.3k ` - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno. ` 📝 7 days ago `
+* [particles-bg](https://github.com/lindelof/particles-bg) ` 🔥 361 ` ` 🌐 1.8k ` - React particles animation background component ` 📝 25 days ago `
 * [shuffle-images](https://github.com/peachananr/shuffle-images) ` 🔥 207 `  - The Simplest Way to shuffle through images in a Creative Way 
-* [TransitionEnd](https://github.com/EvandroLG/transitionEnd) ` 🔥 94 ` ` 🌐 122 ` - TransitionEnd is an agnostic and cross-browser library to work with transitionend event. ` 📝 22 days ago `
+* [TransitionEnd](https://github.com/EvandroLG/transitionEnd) ` 🔥 94 ` ` 🌐 122 ` - TransitionEnd is an agnostic and cross-browser library to work with transitionend event. ` 📝 23 days ago `
 * [the-cube](https://github.com/pstadler/the-cube) ` 🔥 8 `  - The Cube is an experiment with CSS3 transitions. 
 * [Anime.js](http://animejs.com)   
 * [Mo.js](http://mojs.io)   
@@ -854,7 +854,7 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## ES6 [🔝](#readme)
 
-* [Babel (Formerly 6to5)](https://github.com/babel/babel) ` 🔥 38.9k ` ` 🌐 4.7m ` - Babel is a compiler for writing next generation JavaScript. ` 📝 3 days ago `
+* [Babel (Formerly 6to5)](https://github.com/babel/babel) ` 🔥 38.9k ` ` 🌐 4.7m ` - Babel is a compiler for writing next generation JavaScript. ` 📝 4 days ago `
 * [es6features](https://github.com/lukehoban/es6features) ` 🔥 28.4k `  - Overview of ECMAScript 6 features ` 📝 5 years ago `
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) ` 🔥 12.4k `  - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets ` 📝 3 years ago `
 * [Traceur compiler](https://github.com/google/traceur-compiler) ` 🔥 8.1k ` ` 🌐 36.7k ` - Traceur is a JavaScript.next-to-JavaScript-of-today compiler ` 📝 5 years ago `
@@ -863,20 +863,20 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
   
 ## Generators [🔝](#readme)
 
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49.9k ` ` 🌐 326k ` - Build blazing fast, modern apps and websites with React ` 📝 2 days ago `
-* [Docusaurus](https://github.com/facebook/docusaurus) ` 🔥 23.1k ` ` 🌐 6.8k ` - Easy to maintain open source documentation websites. ` 📝 2 days ago `
-* [Gridsome](https://github.com/gridsome/gridsome) ` 🔥 7.5k ` ` 🌐 11.5k ` - The Jamstack framework for Vue.js ` 📝 3 days ago `
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) ` 🔥 49.9k ` ` 🌐 326k ` - Build blazing fast, modern apps and websites with React ` 📝 3 days ago `
+* [Docusaurus](https://github.com/facebook/docusaurus) ` 🔥 23.1k ` ` 🌐 6.8k ` - Easy to maintain open source documentation websites. ` 📝 3 days ago `
+* [Gridsome](https://github.com/gridsome/gridsome) ` 🔥 7.5k ` ` 🌐 11.5k ` - The Jamstack framework for Vue.js ` 📝 4 days ago `
   
 ## SDK [🔝](#readme)
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) ` 🔥 1.1k `  - JavaScript SDK Design Guide extracted from work and personal experience ` 📝 4 months ago `
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) ` 🔥 201 ` ` 🌐 103 ` - Spotify SDK | Entity and Collection oriented | Browser and Node support! ` 📝 4 years ago `
-* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) ` 🔥 81 `  - Javascript client library for the Square Connect APIs ` 📝 4 days ago `
+* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) ` 🔥 81 `  - Javascript client library for the Square Connect APIs ` 📝 5 days ago `
   
 ## Misc [🔝](#readme)
 
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ` 🔥 104k ` ` 🌐 13 ` - Algorithms and data structures implemented in JavaScript with explanations and links to further readings ` 📝 4 days ago `
-* [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) ` 🔥 13.2k ` ` 🌐 781 ` - Browser fingerprinting library with the highest accuracy and stability. ` 📝 3 days ago `
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ` 🔥 104k ` ` 🌐 13 ` - Algorithms and data structures implemented in JavaScript with explanations and links to further readings ` 📝 5 days ago `
+* [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) ` 🔥 13.2k ` ` 🌐 781 ` - Browser fingerprinting library with the highest accuracy and stability. ` 📝 4 days ago `
 * [list.js](https://github.com/javve/list.js) ` 🔥 10.5k ` ` 🌐 1.9k ` - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. ` 📝 3 months ago `
 * [picturefill](https://github.com/scottjehl/picturefill) ` 🔥 10.1k ` ` 🌐 15.4k ` - A responsive image polyfill for <picture>, srcset, sizes, and more ` 📝 4 years ago `
 * [ky](https://github.com/sindresorhus/ky) ` 🔥 6.4k ` ` 🌐 6.5k ` - Tiny & elegant JavaScript HTTP client based on the browser Fetch API ` 📝 2 months ago `
@@ -885,9 +885,9 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [grid](https://github.com/hootsuite/grid) ` 🔥 3.5k ` ` 🌐 20 ` - Drag and drop library for two-dimensional, resizable and responsive lists ` 📝 4 years ago `
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) ` 🔥 3.1k ` ` 🌐 1.9k ` - a responsive equal heights plugin ` 📝 3 years ago `
 * [platform.js](https://github.com/bestiejs/platform.js) ` 🔥 2.8k ` ` 🌐 245k ` - A platform detection library. ` 📝 10 months ago `
-* [survey.js](https://github.com/surveyjs/surveyjs) ` 🔥 2.8k ` ` 🌐 312 ` - JavaScript Survey and Form Library ` 📝 2 days ago `
+* [survey.js](https://github.com/surveyjs/surveyjs) ` 🔥 2.8k ` ` 🌐 312 ` - JavaScript Survey and Form Library ` 📝 3 days ago `
 * [Array Explorer](https://github.com/sdras/array-explorer) ` 🔥 2.4k `  - A resource to help figure out what JavaScript array method would be best to use at any given time ` 📝 6 months ago `
-* [Idyll](https://github.com/idyll-lang/idyll) ` 🔥 1.8k ` ` 🌐 281 ` - Create explorable explanations and interactive essays. ` 📝 19 days ago `
+* [Idyll](https://github.com/idyll-lang/idyll) ` 🔥 1.8k ` ` 🌐 281 ` - Create explorable explanations and interactive essays. ` 📝 20 days ago `
 * [json3](https://github.com/bestiejs/json3) ` 🔥 1k ` ` 🌐 4.9m ` - A JSON polyfill. No longer maintained. ` 📝 2 years ago `
 * [emoji-button](https://github.com/joeattardi/emoji-button) ` 🔥 664 ` ` 🌐 193 ` - Vanilla JavaScript emoji picker component ` 📝 5 months ago `
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert) ` 🔥 474 `  - SPOILER ALERT! A happy little bit of javascript to hide spoilers on your site. 
@@ -911,16 +911,16 @@ Original Data from [Awesome JavaScript](https://github.com/sorrycc/awesome-javas
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) ` 🔥 14.1k `  - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. ` 📝 a year ago `
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) ` 🔥 7.7k `  - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web ` 📝 4 months ago `
 * [JSbooks](https://github.com/revolunet/JSbooks) ` 🔥 2.4k `  - Directory of free JavaScript ebooks 
-* [SJSJ](https://github.com/HugoGiraudel/SJSJ) ` 🔥 2.2k `  - Simplified JavaScript Jargon ` 📝 11 days ago `
+* [SJSJ](https://github.com/HugoGiraudel/SJSJ) ` 🔥 2.2k `  - Simplified JavaScript Jargon ` 📝 12 days ago `
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) ` 🔥 163 `  - Reference for How to Write an Open Source JavaScript Library - https://egghead.io/series/how-to-write-an-open-source-javascript-library ` 📝 7 months ago `
 * [Superhero.js](http://superherojs.com)   
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript)   
   
 ## Other Awesome Lists [🔝](#readme)
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ` 🔥 158k `  - Awesome lists about all kinds of interesting topics ` 📝 7 days ago `
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ` 🔥 158k `  - Awesome lists about all kinds of interesting topics ` 📝 8 days ago `
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) ` 🔥 12.6k `  - Must-watch videos about javascript ` 📝 8 months ago `
-* [jnv/list](https://github.com/jnv/lists) ` 🔥 7.2k `  - The definitive list of lists (of lists) curated on GitHub and elsewhere ` 📝 3 days ago `
+* [jnv/list](https://github.com/jnv/lists) ` 🔥 7.2k `  - The definitive list of lists (of lists) curated on GitHub and elsewhere ` 📝 4 days ago `
 * [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning) ` 🔥 4.6k `  - List of resources to learn ECMAScript 6! ` 📝 3 years ago `
 * [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) ` 🔥 3.8k `  - An aggregation of tooling for using ES6 today ` 📝 5 years ago `
 * [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins) ` 🔥 140 `  - In addition to http://youmightnotneedjquery.com/ this is a list of commonly used plugins without dependencies 
